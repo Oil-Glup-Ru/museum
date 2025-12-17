@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Oil-Glup.Ru Сводная таблица PCMO</title>
+  <meta content="Сводная таблица музея OIL-GLUP.RU" property="og:description"/>
+  <meta content="https://oil-glup.ru/pcmo.html" property="og:url"/>
+  <meta content="Сводная таблица музея OIL-GLUP.RU" property="og:site_name"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Сводная таблица музея OIL-GLUP.RU" property="og:title"/>
+  <link href="https://oil-glup.ru/pcmo.html" rel="canonical"/>
+  <meta content="Сводная таблица музея моторных масел" name="description"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<style>
+  :root{
+    --page-bg-1: #0f172a;
+    --page-bg-2: #0a111c;
+    --card-bg: rgba(12,18,25,0.7);
+    --accent: #38bdf8;
+    --accent-2: #34d399;
+    --muted: #94a3b8;
+    --table-border: rgba(255,255,255,0.08);
+    --text: #e2e8f0;
+    /* --- ИЗМЕНЕНИЕ: Сделал фон строк чуть заметнее --- */
+    --row-bg-even: rgba(15, 23, 42, 0.6);
+    --row-bg-odd: rgba(30, 41, 59, 0.45);
+    --row-hover-bg: rgba(56, 189, 248, 0.1);
+  }
+
+  html,body {
+    height: 100%;
+    margin: 0;
+    font-family: Inter, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(180deg, var(--page-bg-1) 0%, var(--page-bg-2) 100%);
+    color: var(--text);
+    padding: 10px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .container {
+    max-width: 1700px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    text-align: center;
+    margin: 6px 0 12px;
+    color: var(--accent);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-shadow: 0 6px 30px rgba(56, 189, 248, 0.1);
+    font-size: 1.35rem;
+  }
+
+  .controls {
+    margin-bottom: 20px;
+  }
+
+  #search-box {
+    width: 50%;
+    padding: 10px 16px;
+    background: rgba(30, 41, 59, 0.5);
+    border: 1px solid var(--table-border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 1rem;
+    outline: none;
+    transition: all 0.2s ease;
+  }
+  #search-box:focus {
+    background: rgba(30, 41, 59, 0.9);
+    border-color: var(--accent);
+    box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);
+  }
+
+  .table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-radius: 12px;
+    border: 1px solid var(--table-border);
+    box-shadow: 0 10px 40px rgba(2,6,23,0.7);
+  }
+
+  #data-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card-bg);
+    backdrop-filter: blur(8px) saturate(150%);
+  }
+
+  #data-table thead th {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 0.88rem;
+    color: #f8fafc;
+    background: rgba(15, 23, 42, 0.85);
+    border-bottom: 1px solid var(--table-border);
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background .15s ease, color .15s ease;
+  }
+
+  #data-table tbody td, #data-table thead th {
+    border-right: 1px solid rgba(255,255,255,0.03);
+  }
+
+  #data-table thead th:first-child,
+  #data-table tbody td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 5;
+    background: var(--card-bg);
+    width: 120px;
+    min-width: 120px;
+    max-width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  #data-table thead th:first-child {
+     background: rgba(15, 23, 42, 0.95);
+     z-index: 11;
+  }
+  
+  #data-table tbody tr:hover td:first-child {
+    background: var(--row-hover-bg);
+  }
+
+  #data-table thead th:hover {
+    color: var(--accent);
+    background: rgba(30, 41, 59, 0.9);
+  }
+  
+  #data-table thead th.sort-asc::after,
+  #data-table thead th.sort-desc::after {
+    content: ''; display: inline-block; width: 0; height: 0;
+    border-left: 5px solid transparent; border-right: 5px solid transparent;
+    margin-left: 8px; position: relative; top: -1px;
+  }
+  #data-table thead th.sort-asc::after { border-bottom: 5px solid var(--accent); }
+  #data-table thead th.sort-desc::after { border-top: 5px solid var(--accent); }
+
+  #data-table tbody td {
+    padding: 12px 16px;
+    font-size: 0.88rem;
+    vertical-align: middle;
+    transition: background .15s ease, color .15s ease;
+    border-bottom: 1px solid rgba(255,255,255,0.03);
+  }
+
+  #data-table tbody td:first-child {
+    text-align: left;
+    font-weight: 600;
+    color: var(--text);
+    white-space: nowrap;
+  }
+
+  #data-table tbody td:not(:first-child) {
+    text-align: right;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace;
+    font-variant-numeric: tabular-nums;
+    color: var(--muted); /* Базовый цвет, будет переопределен JS */
+  }
+  
+  td:empty::after { content: "—"; color: rgba(148, 163, 184, 0.3); }
+
+  #data-table tbody tr:nth-child(even) { background-color: var(--row-bg-even); }
+  #data-table tbody tr:nth-child(odd) { background-color: var(--row-bg-odd); }
+  #data-table tbody tr:hover { background-color: var(--row-hover-bg); }
+  #data-table tbody tr:hover td { color: #f8fafc !important; } /* Важно, чтобы при наведении цвет становился белым */
+  #data-table tbody tr:hover td:first-child a { color: var(--accent); }
+
+  #data-table a { color: var(--accent-2); text-decoration: none; transition: color .15s ease; }
+  #data-table a:hover { color: var(--accent); text-decoration: underline; }
+  
+  .hidden-row { display: none; }
+</style>
+
+</head>
+<body>
+  <div class="container">
+    <h1>Сводная таблица PCMO музея ОГ (Oil-Glup)</h1>
+    
+    <div class="controls">
+      <input type="text" id="search-box" placeholder="Фильтр по названию...">
+    </div>
+
+    <div class="table-wrapper">
+      <table id="data-table">
+        <thead><tr>
+            <th title="Название моторного масла">Обозначение</th>
+            <th title="Цинк (Zn) - противоизносная присадка">Zn</th>
+            <th title="Фосфор (P) - противоизносная присадка">P</th>
+            <th title="Молибден (Mo) - модификатор трения">Mo</th>
+            <th title="Никель (Ni)">Ni</th>
+            <th title="Медь (Cu)">Cu</th>
+            <th title="Кальций (Ca) - моющая присадка">Ca</th>
+            <th title="Магний (Mg) - моющая присадка">Mg</th>
+            <th title="Натрий (Na)">Na</th>
+            <th title="Барий (Ba) - моющая присадка (устаревшая)">Ba</th>
+            <th title="Бор (B) - дисперсант, модификатор трения">B</th>
+            <th title="Кремний (Si)">Si</th>
+            <th title="Окисление (Oxidation)">Ox</th>
+            <th title="Общее щелочное число (Total Base Number)">TBN</th>
+            <th title="Общее кислотное число (Total Acid Number)">TAN</th>
+            <th title="Кинематическая вязкость при 100°C">KV100</th>
+            <th title="Кинематическая вязкость при 40°C">KV40</th>
+            <th title="Водородный показатель">pH</th>
+            <th title="Плотность">ρ</th>
+            <th title="Температура застывания (Pour Point)">D97</th>
+            <th title="Анилиновая точка">АТ</th>
+        </tr></thead>
+        <tbody>
+<tr><td><a href="https://oil-glup.ru/threads/amzoil-super-premium-100-diehsterovaja-sintetika-sae-10w-40-pervogo-pokolenija-1973.331/" target="_blank">Amzoil 1st</a></td><td>1006</td><td>878</td><td>0</td><td>0</td><td>0</td><td>2375</td><td>16</td><td>21</td><td>0</td><td>0</td><td>0</td><td>105.0</td><td>8.85</td><td>1.59</td><td>14.47</td><td>76.80</td><td>8.1</td><td>915.4</td><td>54</td><td>24</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/sohio-boron-qvo-10w-40-semi-qvo-qvo-pervoe-5w-40-v-istorii-motornyx-masel.328/" target="_blank">SOHIO QVO</a></td><td>1628</td><td>1558</td><td>0</td><td>0</td><td>0</td><td>653</td><td>1011</td><td>7</td><td>0</td><td>69</td><td>6</td><td>15.0</td><td>6.97</td><td>2.36</td><td>14.91</td><td>84.81</td><td>7.1</td><td>877.1</td><td>45</td><td>98</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/macmillan-ring-free-motor-oil-sae-20-unikalnoe-naftenovoe-mineralnoe-maslo-1940-goda.309/" target="_blank">Macmillan 1940</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>7.0</td><td>0.02</td><td>0.08</td><td>7.24</td><td>65.45</td><td>9.4</td><td>931.2</td><td>42</td><td>73</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/shell-x-100-premuim-10w-30-pervaja-v-mire-bezzolnaja-s-prisadkami-motornaja-mineralka-1961-goda.7/" target="_blank">Shell X-100</a></td><td>3</td><td>630</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>9.0</td><td>1.09</td><td>0.51</td><td>10.75</td><td>60.59</td><td>5.2</td><td></td><td></td><td>109</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/prestone-pervaja-v-mire-tovarnaja-pcmo-pvl-sintetika-10w-10-iz-1950-x-sintezirovana-v-1943.19/" target="_blank">Prestone</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>16.0</td><td>0.2</td><td>4.7</td><td>6.24</td><td>32.02</td><td>7.2</td><td></td><td>51</td><td>22</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/royal-triton-sae-5w-20-vydajuscheesja-mineralnoe-maslo-1950-x.290/" target="_blank">Royal Triton 1957</a></td><td>787</td><td>682</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>52</td><td>6379</td><td>0</td><td>1</td><td>11.0</td><td>2.81</td><td>1.05</td><td>7.44</td><td>34.48</td><td>8.4</td><td>876.2</td><td>42</td><td>90</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/valvoline-chemaloy-hd-detergent-sae-20w-20-c-borirovannymi-dispersantami-iz-1960-x.10/" target="_blank">Valvoline 1969</a></td><td>1385</td><td>1276</td><td>1</td><td>0</td><td>0</td><td>459</td><td>919</td><td>1</td><td>0</td><td>83</td><td>4</td><td>6.0</td><td>6.37</td><td>2.31</td><td>8.44</td><td>58.36</td><td>7.1</td><td></td><td>24</td><td>108</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/macmillan-ring-free-motor-oil-sae-10-unikalnoe-naftenovoe-mineralnoe-maslo-1940-x.13/" target="_blank">Macmillan 1948</a></td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>6</td><td>0</td><td>0</td><td>1</td><td>7.0</td><td>0.03</td><td>0.14</td><td>5.19</td><td>39.55</td><td>8.2</td><td></td><td>48</td><td>71</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/mobil-1-5w-20-sovremennaja-0w-16-pervaja-v-mire-globalnaja-pao-sintetika-1975-goda.29/" target="_blank">Mobil 1 1975</a></td><td>1394</td><td>1271</td><td>0</td><td>0</td><td>0</td><td>2443</td><td>6</td><td>5</td><td>0</td><td>0</td><td>0</td><td>68.0</td><td>6.04</td><td>3.37</td><td>6.96</td><td>38.22</td><td>7.3</td><td></td><td>60</td><td>114</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/mobil-shc-bez-ukazanija-vjazkosti-sovremennyj-standart-10w-60-pervaja-v-mire-pao-sintetika-1973-goda.20/" target="_blank">Mobil SHC 1973</a></td><td>1349</td><td>1205</td><td>0</td><td>0</td><td>0</td><td>2028</td><td>9</td><td>4</td><td>4</td><td>0</td><td>3</td><td>64.0</td><td>5.82</td><td>2.81</td><td>25.81</td><td>154.70</td><td>7.0</td><td></td><td>51</td><td>91</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/sinclair-dino-supreme-unikalnoe-maslo-10w-40-s-nikel-fosfornoj-prisadkoj-serediny-1960-x.27/" target="_blank">Sinclair 1965</a></td><td>1179</td><td>1955</td><td>0</td><td>702</td><td>0</td><td>4413</td><td>31</td><td>23</td><td>0</td><td>2</td><td>5</td><td>17.0</td><td>8.78</td><td>3.19</td><td>16.24</td><td>82.94</td><td>7.1</td><td></td><td>37</td><td>108</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/eon-e-11-polnaja-diehsterovaja-sintetika-iz-1974-goda-10w-40.21/" target="_blank">EON E-11</a></td><td>886</td><td>784</td><td>0</td><td>0</td><td>0</td><td>1576</td><td>17</td><td>5</td><td>0</td><td>1</td><td>5</td><td>96.0</td><td>6.46</td><td>2.16</td><td>13.80</td><td>75.90</td><td>7.8</td><td></td><td>51</td><td>22</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/convoy-10w-50-parasintetika-1977-goda.116/" target="_blank">CONVOY 1977s</a></td><td>1441</td><td>1600</td><td>247</td><td>0</td><td>0</td><td>1374</td><td>23</td><td>721</td><td>0</td><td>9</td><td>2</td><td>20.0</td><td>7.44</td><td>2.16</td><td>20.33</td><td>123.40</td><td>8.2</td><td></td><td>42</td><td>113</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-40-pervoe-100-ehster-pcmo-samoe-nachalo-1970-x.334/" target="_blank">All Proof 1968</a></td><td>564</td><td>933</td><td>0</td><td>0</td><td>0</td><td>21</td><td>0</td><td>0</td><td>1807</td><td>0</td><td>0</td><td>141.0</td><td>1.6</td><td>1.07</td><td>15.90</td><td>80.29</td><td>8.1</td><td>908.9</td><td>60</td><td>25</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/steen-c-pervoe-butikovoe-sinteticheskoe-maslo-20w-40-na-pag.261/" target="_blank">STEEN-C</a></td><td>5</td><td>3</td><td>0</td><td>0</td><td>0</td><td>3</td><td>1</td><td>8</td><td>0</td><td>1</td><td>0</td><td>13.0</td><td>0.3</td><td>4.16</td><td>14.39</td><td>85.94</td><td>7.6</td><td></td><td>45</td><td>24</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/pennzoil-multi-vis-motor-oil-with-z7-sae-20w-40-razvitie-legendarnyx-masel-1950-x-iz-1970-x.15/" target="_blank">Pennzoil 1970s</a></td><td>1277</td><td>1719</td><td>0</td><td>0</td><td>0</td><td>1232</td><td>14</td><td>1</td><td>2166</td><td>2</td><td>3</td><td>9.0</td><td>6.29</td><td>1.73</td><td>13.84</td><td>112.75</td><td>6.9</td><td></td><td>18</td><td>115</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/royal-triton-sae-20-premialnoe-mineralnoe-maslo-versija-pervoj-poloviny-1950-x.318/" target="_blank">Royal Triton 1952</a></td><td>576</td><td>572</td><td>0</td><td>0</td><td>0</td><td>25</td><td>0</td><td>34</td><td>332</td><td>0</td><td>1</td><td>6.0</td><td>2.3</td><td>0.99</td><td>7.90</td><td>60.17</td><td>8.2</td><td>884.5</td><td>15</td><td>108</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/mobil-mobiloil-sae-30-klassicheskaja-mineralka-1960-x.9/" target="_blank">Mobil 1960s</a></td><td>655</td><td>957</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>2847</td><td>0</td><td>1</td><td>6.0</td><td>3.23</td><td>1.02</td><td>10.55</td><td>92.03</td><td></td><td></td><td>18</td><td>109</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-50-pervoe-100-ehster-pcmo-1974-goda.32/" target="_blank">All Proof 1970s</a></td><td>1621</td><td>2269</td><td>5</td><td>0</td><td>0</td><td>11</td><td>5</td><td>0</td><td>16</td><td>0</td><td>18</td><td>140.0</td><td>0.09</td><td>3.31</td><td>17.06</td><td>95.85</td><td>5.3</td><td></td><td>43</td><td></td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/amsoil-super-premium-100-diehsterovaja-sintetika-sae-10w-40-vtorogo-pokolenija-1974.319/" target="_blank">Amsoil 2nd</a></td><td>1742</td><td>1593</td><td>0</td><td>0</td><td>0</td><td>1693</td><td>439</td><td>16</td><td>0</td><td>26</td><td>4</td><td>96.0</td><td>8.11</td><td>2.44</td><td>14.29</td><td>78.76</td><td>8.4</td><td>901.5</td><td>54</td><td>25</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/lubrichem-100-synthetic-lubricant-sae-10w-40-diehster-sintetika-1970-x.30/" target="_blank">Lubrichem 10W-40</a></td><td>1469</td><td>2274</td><td>984</td><td>0</td><td>1</td><td>1387</td><td>2157</td><td>34</td><td>0</td><td>2</td><td>81</td><td>72.0</td><td>10.9</td><td>5.01</td><td>13.77</td><td>83.61</td><td>6.9</td><td></td><td>50</td><td>72</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/lemans-chemical-formula-25w-50-maslo-na-pag-iz-1970-x.44/" target="_blank">Lemans 20W-50</a></td><td>4</td><td>464</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>2</td><td>0</td><td>1</td><td>0</td><td>15.0</td><td>0.27</td><td>6.58</td><td>19.47</td><td>120.50</td><td>6.6</td><td></td><td>42</td><td>25</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/nitrex-5w-40-polusintetika-1970-x.117/" target="_blank">NITREX 5W-40</a></td><td>1225</td><td>1017</td><td>0</td><td>0</td><td>0</td><td>716</td><td>1448</td><td>3</td><td>0</td><td>149</td><td>4</td><td>18.0</td><td>9.07</td><td>2.36</td><td>14.69</td><td>69.40</td><td>7.3</td><td></td><td>33</td><td>113</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/quaker-state-sae-10w-10-iz-1940-x.12/" target="_blank">Quaker State 10W-10</a></td><td>442</td><td>1075</td><td>0</td><td>1</td><td>0</td><td>3</td><td>1</td><td>27</td><td>4219</td><td>0</td><td>3</td><td>6.0</td><td>3.57</td><td>1.07</td><td>6.94</td><td>43.69</td><td>7.4</td><td></td><td>33</td><td>108</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/dezol-oiloy-sae-30-heavy-duty-iz-1950-x.322/" target="_blank">Dezol sae 30 HD</a></td><td>467</td><td>464</td><td>0</td><td>0</td><td>0</td><td>423</td><td>2</td><td>17</td><td>40</td><td>0</td><td>1</td><td>6.0</td><td>0.08</td><td>1.38</td><td>10.62</td><td>90.72</td><td>8.3</td><td>879.3</td><td>21</td><td>111</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/schaeffers-micron-moly-maslo-c-org-molibdenom-odno-iz-pervyx-s-modtc-nachalo-1990-x.119/" target="_blank">Schaeffers Oil</a></td><td>1558</td><td>1512</td><td>188</td><td>0</td><td>123</td><td>1123</td><td>354</td><td>670</td><td>1</td><td>1</td><td>11</td><td>9.0</td><td>6.57</td><td>2.13</td><td>16.89</td><td>166.61</td><td>8.2</td><td></td><td>15</td><td>119</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/phillips-66-premium-heavy-duty-10w-10-motor-oil-iz-1950-x.16/" target="_blank">Phillips66 1952</a></td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>355</td><td>4</td><td>15</td><td>2590</td><td>3</td><td>5</td><td>5.0</td><td>2.5</td><td>0.41</td><td>5.88</td><td>35.54</td><td>8.7</td><td></td><td>33</td><td>117</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/kendall-the-2000-mile-oil-znamenitoe-motornoe-maslo-sae-40-versija-1949-1950.338/" target="_blank">Kendall 2000</a></td><td>492</td><td>431</td><td>1</td><td>0</td><td>0</td><td>10</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>6.0</td><td>0.18</td><td>0.34</td><td>14.59</td><td>138.90</td><td>8.3</td><td>878.6</td><td>18</td><td>130</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/amoco-ultimate-5w-30-pao-maslo-1980-x-davshee-nazvanie-toplivu-bp-i-aral-ultimate.346/" target="_blank">Amoco 5W-30 SF</a></td><td>1565</td><td>1445</td><td>0</td><td>0</td><td>0</td><td>2202</td><td>117</td><td>10</td><td>0</td><td>112</td><td>6</td><td>12.0</td><td>7.3</td><td>2.48</td><td>10.27</td><td>60.64</td><td>7.7</td><td>843.7</td><td>42</td><td>124</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/chemlube-10w-40-synthetic-api-se-100-diehsterovaja-sintetika-iz-1970-x.306/" target="_blank">ChemLube Synthetic</a></td><td>880</td><td>834</td><td>0</td><td>0</td><td>0</td><td>1674</td><td>11</td><td>9</td><td>0</td><td>0</td><td>2</td><td>104.0</td><td>6.04</td><td>1.79</td><td>14.75</td><td>77.84</td><td>7.3</td><td>916.2</td><td>54</td><td>25</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/agip-f-1-supermotoroil-20w-50-redkaja-gonochnaja-evropejskaja-polusintetika-nachala-1970-x.270/" target="_blank">AGIP F1</a></td><td>1499</td><td>1317</td><td>0</td><td>0</td><td>0</td><td>2019</td><td>7</td><td>10</td><td>14</td><td>0</td><td>2</td><td>18.0</td><td>5.38</td><td>3.05</td><td>19.24</td><td>128.90</td><td>7.0</td><td></td><td>27</td><td>118</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/mobil-1-5w-30-pao-sintetika-mobil-1980-goda.356/" target="_blank">Mobil 1 5W-30</a></td><td>1351</td><td>1266</td><td>0</td><td>0</td><td>0</td><td>2215</td><td>13</td><td>9</td><td>0</td><td>0</td><td>6</td><td>50.0</td><td>6.51</td><td>3.06</td><td>10.75</td><td>59.26</td><td></td><td></td><td>66</td><td></td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/xetex-100-synthetic-based-sae-10w-40-60000-miles-plus-motor-oil-api-se-iz-1970-x.305/" target="_blank">XETEX 60000 Miles</a></td><td>1861</td><td>1728</td><td>0</td><td>0</td><td>0</td><td>2689</td><td>18</td><td>33</td><td>29</td><td>0</td><td>6</td><td>162.0</td><td>10.03</td><td>2.98</td><td>14.84</td><td>83.08</td><td>7.4</td><td>958.3</td><td>51</td><td>25</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/zenex-sl-1000-5w-40-100-diehsterovaja-sintetika-konca-1970-x.118/" target="_blank">ZENEX SL-1000</a></td><td>1349</td><td>1194</td><td>0</td><td>0</td><td>0</td><td>557</td><td>1022</td><td>14</td><td>106</td><td>232</td><td>2</td><td>115.0</td><td>7.33</td><td>2.19</td><td>15.42</td><td>70.54</td><td>6.9</td><td></td><td>57</td><td>24</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/ultron-10w-40-100-diehsterovaja-sintetika-iz-1980-x.115/" target="_blank">ULTRON</a></td><td>1448</td><td>1263</td><td>0</td><td>0</td><td>1</td><td>319</td><td>1629</td><td>14</td><td>1</td><td>170</td><td>12</td><td>105.0</td><td>7.78</td><td>3.43</td><td>13.73</td><td>62.22</td><td>6.9</td><td></td><td>45</td><td>24</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/xonex-sl-1000-10w-40-100-diehsterovaja-sintetika-serediny-1970-x.289/" target="_blank">Xonex SL-1000</a></td><td>1429</td><td>1212</td><td>0</td><td>0</td><td>0</td><td>2398</td><td>11</td><td>13</td><td>0</td><td>0</td><td>4</td><td>95.0</td><td>8.22</td><td>2.6</td><td>14.74</td><td>81.27</td><td>7.8</td><td>917.3</td><td>54</td><td>24</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/freedom-sae-10w-40-api-se-100-diehsterovaja-sintetika-s-simvolicheskim-nazvaniem-iz-1978.352/" target="_blank">Freedom Oil 10W-40</a></td><td>1172</td><td>1091</td><td>0</td><td>0</td><td>0</td><td>2691</td><td>9</td><td>56</td><td>6</td><td>0</td><td>9</td><td>86.0</td><td>8.71</td><td>2.41</td><td>14.35</td><td>81.13</td><td>7.7</td><td>917.2</td><td>51</td><td>25</td></tr>
+<tr><td><a href="https://oil-glup.ru/threads/aral-kowal-20w-20-legendarnyj-analog-m8v-iz-1970-x.14/" target="_blank">ARAL KOWAL 20W20</a></td><td>789</td><td>734</td><td>0</td><td>0</td><td>0</td><td>1525</td><td>9</td><td>3</td><td>0</td><td>2</td><td>3</td><td>7.0</td><td>4.88</td><td>1.57</td><td>8.40</td><td>67.25</td><td>7.4</td><td></td><td>27</td><td>115</td></tr>
+</tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const table = document.getElementById("data-table");
+      const tbody = table.querySelector("tbody");
+      const searchBox = document.getElementById('search-box');
+
+      // --- Функция: Сортировка таблицы ---
+      const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent || "";
+      
+      document.querySelectorAll("#data-table th").forEach((th, thIndex) => {
+        th.addEventListener("click", () => {
+          const rowsArray = Array.from(tbody.querySelectorAll("tr"));
+          let currentSortOrder = th.classList.contains("sort-asc") ? "asc" : "desc";
+          
+          table.querySelectorAll("th").forEach(h => h.classList.remove("sort-asc", "sort-desc"));
+          
+          let newSortOrder = currentSortOrder === "asc" ? "desc" : "asc";
+          th.classList.add(newSortOrder === "asc" ? "sort-asc" : "sort-desc");
+
+          rowsArray.sort((a, b) => {
+            const valA = getCellValue(a, thIndex);
+            const valB = getCellValue(b, thIndex);
+            const numA = parseFloat(valA);
+            const numB = parseFloat(valB);
+
+            let comparison = 0;
+            if (!isNaN(numA) && !isNaN(numB)) {
+              comparison = numA - numB;
+            } else {
+              comparison = valA.localeCompare(valB, 'ru', { sensitivity: 'base', numeric: true });
+            }
+            return newSortOrder === "asc" ? comparison : -comparison;
+          });
+
+          rowsArray.forEach(row => tbody.appendChild(row));
+        });
+      });
+
+      // --- Функция: "Живой" поиск/фильтр ---
+      searchBox.addEventListener('keyup', () => {
+        const searchTerm = searchBox.value.toLowerCase();
+        tbody.querySelectorAll('tr').forEach(row => {
+          const titleCell = row.querySelector('td:first-child');
+          if (titleCell) {
+            const titleText = titleCell.textContent.toLowerCase();
+            row.classList.toggle('hidden-row', !titleText.includes(searchTerm));
+          }
+        });
+      });
+
+      // --- ИЗМЕНЕНИЕ: Новая функция подсветки ---
+      const applyConditionalFormatting = () => {
+        const headers = Array.from(document.querySelectorAll('#data-table th')).map(th => th.textContent.trim());
+        const columnMaxValues = headers.map(() => 0);
+
+        tbody.querySelectorAll('tr').forEach(row => {
+          Array.from(row.children).forEach((cell, index) => {
+            if (index > 0) {
+              const value = parseFloat(cell.textContent);
+              if (!isNaN(value) && value > columnMaxValues[index]) {
+                columnMaxValues[index] = value;
+              }
+            }
+          });
+        });
+        
+        // Карта базовых ОТТЕНКОВ (Hue) для каждого столбца (0-360)
+        const hueMapping = {
+          'Ca': 50,  // Желто-оранжевый
+          'Ba': 45,  // Желтый
+          'Mg': 35,  // Оранжевый
+          'AT': 280, // Лиловый
+          'Ox': 25,  // Оранжево-красный
+          'TBN': 120, // Зеленый
+          'TAN': 0,   // Красный
+          'Zn': 195, // Голубой (циан)
+          'P': 210,  // Сине-голубой
+          'Mo': 60,  // Ярко-желтый
+          'Ni': 70,  // Салатовый
+          'Cu': 15,  // Красно-коричневый
+          'Na': 40,  // Оранжево-желтый
+          'B': 100,  // Зелено-салатовый
+          'Si': 30,  // Оранжевый
+          'KV100': 240, // Синий
+          'KV40': 250, // Индиго
+          'pH': 300,   // Малиновый
+          'Плотность': 180, // Бирюзовый
+          'D97': 260, // Фиолетовый
+        };
+        
+        tbody.querySelectorAll('tr').forEach(row => {
+          Array.from(row.children).forEach((cell, index) => {
+            const header = headers[index];
+            if (index > 0 && hueMapping[header]) { // Проверяем, что для столбца задан цвет
+              const value = parseFloat(cell.textContent);
+              const maxValue = columnMaxValues[index];
+              
+              if (!isNaN(value) && maxValue > 0) {
+                const intensity = value / maxValue;
+                const hue = hueMapping[header];
+
+                // Рассчитываем Насыщенность (Saturation) и Яркость (Lightness)
+                // 0 -> тусклый цвет; max -> яркий, насыщенный цвет
+                const saturation = 30 + (intensity * 70); // от 30% до 100%
+                const lightness = 60 + (intensity * 25); // от 60% до 85%
+
+                cell.style.color = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+              } else {
+                 // Для нулевых или пустых ячеек ставим стандартный приглушенный цвет
+                 cell.style.color = 'var(--muted)';
+              }
+            }
+          });
+        });
+      };
+      
+      applyConditionalFormatting();
+
+    });
+  </script>
+</body>
+</html>
