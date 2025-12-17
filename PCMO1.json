@@ -3,98 +3,413 @@
     "title": "Castrol Syntron X",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3853",
     "description_ru": "Одно из первых масел для автомобилей уровня supercar (премиальные и спортивные автомобили), первая синтетика Castrol;",
-    "description_en": "One of the earliest engine oils developed specifically for supercar-grade engines. Syntron X represents Castrol’s first true synthetic formulation, created for engines with unusually high specific output and thermal stress.",
+    "description_en": "One of the earliest motor oils formulated specifically for supercar-level vehicles (premium and high-performance sports cars); Castrol's very first fully synthetic oil.",
     "museum": false
   },
   {
-    "title": "Shell TMO part 1",
+    "title": "Shell TMO часть 1",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3850",
     "description_ru": "Минеральное, а затем и синтетическое масло для автомобилей уровня supercar от Shell;",
-    "description_en": "Shell TMO originated as a premium mineral oil for elite performance cars and later evolved into synthetic formulations, reflecting Shell’s early recognition of the lubrication demands of high-performance engines.",
+    "description_en": "A mineral-based oil that later evolved into a synthetic variant, developed by Shell specifically for supercar-level premium and high-performance vehicles.",
     "museum": false
   },
   {
-    "title": "Shell TMO part 2",
+    "title": "Shell TMO часть 2",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-4780",
-    "description_ru": "-",
-    "description_en": "Continuation of the Shell TMO lineage, focusing on formulation evolution, field experience, and the gradual transition from mineral excellence to synthetic thinking in high-performance lubrication.",
+    "description_ru": "",
+    "description_en": "Continuation of Shell's groundbreaking TMO line, further detailing its evolution and applications in high-performance engines.",
     "museum": false
   },
   {
     "title": "Phillips 66 Trop-Artic",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3860",
     "description_ru": "Уникальное название Trop-Artic компании Manhattan Oil было выкуплено компанией Phillips для отдельного эпохального масла, которое продержалось на рыке более 50 лет;",
-    "description_en": "Trop-Artic became one of the most enduring oil brands in PCMO history. Acquired from Manhattan Oil, Phillips turned it into an all-climate flagship that survived technological and market shifts for over half a century.",
+    "description_en": "The distinctive Trop-Artic name, originally from Manhattan Oil, was acquired by Phillips 66 for this landmark motor oil that remained on the market for over 50 years.",
     "museum": false
   },
   {
     "title": "BP Energol",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3863",
     "description_ru": "Первое в истории масло 10W-40;",
-    "description_en": "Energol holds historical significance as the first documented 10W-40 engine oil, marking the moment when viscosity engineering became an intentional design choice rather than an empirical compromise.",
+    "description_en": "The world's first motor oil in the groundbreaking 10W-40 viscosity grade.",
     "museum": false
   },
   {
-    "title": "Esso Uniflo (intro)",
+    "title": "Esso Uniflo (вводная)",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3865",
     "description_ru": "Первое масло - неофициально multigrade (10-30) в 1930-х;",
-    "description_en": "Uniflo was an unofficial multigrade oil in the 1930s, challenging the seasonal oil paradigm decades before multigrade classifications were formally standardized.",
+    "description_en": "The earliest motor oil to unofficially exhibit multigrade characteristics (equivalent to 10W-30) in the 1930s.",
     "museum": false
   },
   {
-    "title": "Esso Uniflo part 1",
+    "title": "Esso Uniflo часть 1",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6#post-15408",
     "description_ru": "Первое масло - multigrade вообще;",
-    "description_en": "Often regarded as the first true multigrade engine oil in history, Uniflo demonstrated that controlled viscosity behavior across temperatures was chemically achievable long before polymer VI improvers became mainstream.",
+    "description_en": "The very first true multigrade motor oil in history.",
     "museum": false
   },
   {
-    "title": "Esso Uniflo part 2",
+    "title": "Esso Uniflo часть 2",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6#post-15440",
     "description_ru": "Первое в истории масло 5W-20;",
-    "description_en": "This Uniflo formulation is historically recognized as the first 5W-20 engine oil, anticipating modern low-viscosity efficiency trends by several decades.",
+    "description_en": "The first motor oil ever formulated in the innovative 5W-20 viscosity grade.",
     "museum": false
   },
   {
     "title": "Union76 Royal Triton",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3867",
     "description_ru": "Масло фиолетового цвета - уникальное премиальное минеральное моторное масло 1950-х - 1960-х;",
-    "description_en": "A premium mineral oil of the 1950s–1960s, famous for its distinctive purple color and for representing the absolute peak of pre-synthetic mineral oil formulation.",
+    "description_en": "Iconic purple-colored premium mineral motor oil from the 1950s and 1960s, renowned for its distinctive appearance and superior performance.",
     "museum": true
   },
   {
     "title": "Castrol Syntec FSX",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3868",
     "description_ru": "То самое масло из-за \"синтетики\" которого поспорили Mobil и Castrol. Содержало уникальные эстеры, но перешло полностью на HC;",
-    "description_en": "Syntec FSX became central to the Mobil vs. Castrol dispute over the definition of synthetic oil. Initially ester-rich, it later transitioned to hydrocracked bases, setting a legal and technical precedent for the industry.",
+    "description_en": "The infamous oil at the center of the Mobil vs. Castrol 'synthetic' legal dispute; originally featured unique ester bases but later transitioned fully to hydrocracked (HC) components.",
     "museum": false
   },
   {
     "title": "Pennzoil Mult-vis",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3869",
-    "description_ru": "Одно из самых продаваемых масел PCMO за всю историю.",
-    "description_en": "One of the best-selling PCMOs of all time. Mult-vis also became legally notable after advertising litigation clarified that polymer mechanical strength alone does not define superior engine protection.",
+    "description_ru": "Одно из самых продаваемых масел PCMO за всю историю. Судебное разбирательство по рекламе этого масла установило, что \"механически крепкий полимер\" - не является важным элементом превсоходства;",
+    "description_en": "One of the best-selling passenger car motor oils (PCMO) in history; a landmark advertising lawsuit clarified that 'mechanically strong polymers' were not essential for superior performance.",
     "museum": true
   },
   {
     "title": "SOHIO QVO",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3871",
     "description_ru": "Первое в истории масло 5W-40;",
-    "description_en": "The first engine oil formulated as 5W-40, QVO expanded the multigrade concept into a viscosity range that would later become a European performance standard.",
+    "description_en": "The world's first motor oil in the pioneering 5W-40 viscosity grade.",
     "museum": true
   },
   {
     "title": "Amoco LDO",
     "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3873",
     "description_ru": "Одно из первых LL-масел - 6000 миль для самого начала 1960-х;",
-    "description_en": "One of the earliest long-drain oils, rated for 6,000 miles at a time when such intervals were considered radical.",
+    "description_en": "One of the earliest long-life (LL) motor oils, offering an impressive 6,000-mile drain interval in the early 1960s.",
     "museum": false
+  },
+  {
+    "title": "Quaker State Super Blend",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3882",
+    "description_ru": "Исторически значимое масло великой компании Quaker State;",
+    "description_en": "A historically significant motor oil from the renowned Quaker State company, celebrated for its innovative formulation and enduring legacy.",
+    "museum": false
+  },
+  {
+    "title": "Mobil 1 C40 GT",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3887",
+    "description_ru": "Знаменитое Mobil esp x2 0W-20 (от самого Douglas Edward Deckman из XOM) только загущенное до SAE40;",
+    "description_en": "The renowned Mobil ESP x2 0W-20 formula (developed by Douglas Edward Deckman at ExxonMobil), thickened to meet SAE 40 specifications for enhanced performance.",
+    "museum": false
+  },
+  {
+    "title": "Shell Fire & Ice",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3939",
+    "description_ru": "Одно из самых ярких моторных масел Shell конца 1970-х;",
+    "description_en": "One of Shell's most iconic and visually striking motor oils from the late 1970s, known for its bold marketing and advanced protection.",
+    "museum": false
+  },
+  {
+    "title": "Mobiloil Special часть 1",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-4027",
+    "description_ru": "Масло-эпоха;",
+    "description_en": "A true era-defining motor oil that shaped the early standards of engine lubrication.",
+    "museum": false
+  },
+  {
+    "title": "Mobiloil Special часть 2",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/post-4028",
+    "description_ru": "",
+    "description_en": "Further exploration of the legendary Mobiloil Special, highlighting its enduring influence on motor oil development.",
+    "museum": false
+  },
+  {
+    "title": "Mobiloil Gargoyle",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4148",
+    "description_ru": "Название, которое было изменено во время WW2;",
+    "description_en": "An iconic brand name that was changed during World War II for patriotic and marketing reasons.",
+    "museum": false
+  },
+  {
+    "title": "Mobil 1 Rally Formula",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4234",
+    "description_ru": "Первое официально спортивное моторное масло Mobil 1;",
+    "description_en": "The first officially designated racing motor oil in the Mobil 1 lineup.",
+    "museum": false
+  },
+  {
+    "title": "Veedol",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4247",
+    "description_ru": "Бренд, который дал очень много миру PCMO (Veedol Synthron было первым 5W-40 для европейского рынка, который оказался не готов к этом грейду);",
+    "description_en": "A brand that contributed immensely to the world of passenger car motor oils (PCMO); Veedol Synthron was the first 5W-40 introduced to the European market, which proved ahead of its time.",
+    "museum": false
+  },
+  {
+    "title": "Gulfpride Formula G",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4404",
+    "description_ru": "Gulfpride Formula G - супер-спорт конца 1960-х;",
+    "description_en": "Gulfpride Formula G – a super-sport high-performance oil from the late 1960s.",
+    "museum": false
+  },
+  {
+    "title": "Texaco Havoline Supreme",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4446",
+    "description_ru": "Havoline - \"столетнее\" масло;",
+    "description_en": "Havoline – a truly 'century-old' motor oil with a rich and enduring heritage.",
+    "museum": false
+  },
+  {
+    "title": "G-oil 10W-30",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4555",
+    "description_ru": "Масло от Dr. SAE20;",
+    "description_en": "A remarkable motor oil championed and endorsed by the renowned Dr. SAE20.",
+    "museum": false
+  },
+  {
+    "title": "Shell Golden часть 1",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4573",
+    "description_ru": "В конце 1939 года - как награду для лучших агентов и дилеров масла Golden Shell - Shell заказала 30 000 швейцарских часов;",
+    "description_en": "In late 1939, as a reward for top agents and dealers of Golden Shell oil, Shell commissioned 30,000 Swiss watches.",
+    "museum": false
+  },
+  {
+    "title": "Shell Golden часть 2",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2#post-4574",
+    "description_ru": "",
+    "description_en": "Continuation of the fascinating story behind Shell Golden oil and its legendary promotional campaign.",
+    "museum": false
+  },
+  {
+    "title": "SOHIO Duron",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-4644",
+    "description_ru": "Первое в истории масло 5W-30;",
+    "description_en": "The world's first motor oil in the revolutionary 5W-30 viscosity grade.",
+    "museum": false
+  },
+  {
+    "title": "Sunoco Special",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-4946",
+    "description_ru": "Легенда от великой компании (один из первых брендов PCMO в истории PCMO);",
+    "description_en": "A legendary oil from a great company; one of the earliest branded passenger car motor oils (PCMO) in history.",
+    "museum": false
+  },
+  {
+    "title": "Три первых W-масла [Mobiloil, Conoco, Standard Oil Indiana]",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-5631",
+    "description_ru": "Первые масла зимних (W) грейдов начала 1930-х;",
+    "description_en": "The first three winter-grade (W) motor oils introduced in the early 1930s by Mobiloil, Conoco, and Standard Oil Indiana.",
+    "museum": false
+  },
+  {
+    "title": "Valvoline Restore & Protect",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-5648",
+    "description_ru": "Самое модное моторное масло 2024 и 2025 в США. Революция в области моющих свойств и хелатирования;",
+    "description_en": "The most fashionable and talked-about motor oil in the USA for 2024 and 2025; a revolution in cleaning properties and metal chelation technology.",
+    "museum": false
+  },
+  {
+    "title": "Mobil 1 esp x2",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-5657",
+    "description_ru": "Знаменитое Mobil esp x2 0W-20 (от самого Douglas Edward Deckman из XOM). Первое масло гениального допуска VW 508;",
+    "description_en": "The famous Mobil ESP x2 0W-20 (developed by Douglas Edward Deckman at ExxonMobil); the first oil to meet the ingenious VW 508.00 specification.",
+    "museum": false
+  },
+  {
+    "title": "Zic Zero",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-5667",
+    "description_ru": "Якобы содержит Ионные Жидкости, воспетые самим Dr. SAE20;",
+    "description_en": "Allegedly formulated with ionic liquids, highly praised and celebrated by Dr. SAE20 himself.",
+    "museum": false
+  },
+  {
+    "title": "Kendall SuperB",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-5693",
+    "description_ru": "Первое в истории (официально) масло 10W-30;",
+    "description_en": "The first officially recognized motor oil in the 10W-30 viscosity grade.",
+    "museum": false
+  },
+  {
+    "title": "Amoco Ultimate",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3#post-5705",
+    "description_ru": "Одно из первых PAO-масел начала 1980-х. Выражение Ultimate в названии масла - легко в основу знаменитых марок топлива Amoco, BP, Aral;",
+    "description_en": "One of the earliest PAO-based motor oils from the early 1980s; the 'Ultimate' branding influenced the naming of famous Amoco, BP, and Aral premium fuels.",
+    "museum": true
+  },
+  {
+    "title": "Mobiloil Arctic часть 1",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-5725",
+    "description_ru": "Mesmerizing - только такое слово подходит к этим эпохальным «зимним» моторным маслам;",
+    "description_en": "Mesmerizing – the only word fitting for these epochal 'winter' motor oils that captivated the industry.",
+    "museum": false
+  },
+  {
+    "title": "Mobiloil Arctic часть 2",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-5728",
+    "description_ru": "",
+    "description_en": "Further details on the captivating legacy of Mobiloil Arctic winter-grade oils.",
+    "museum": false
+  },
+  {
+    "title": "Motul 300V",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-6063",
+    "description_ru": "300V в представлении не нуждается. Круче не бывает;",
+    "description_en": "Motul 300V needs no introduction – quite simply, the pinnacle of motor oil performance.",
+    "museum": false
+  },
+  {
+    "title": "Invader",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-6075",
+    "description_ru": "Все масла Invader входили в ТОП-20 первых PCMO до 1917 года;",
+    "description_en": "All Invader oils ranked in the top 20 earliest passenger car motor oils (PCMO) before 1917.",
+    "museum": false
+  },
+  {
+    "title": "D-X extrinol",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-6522",
+    "description_ru": "Масло с extrinol - это почти масло с chemaloy, но это масло с extrinol!",
+    "description_en": "An oil featuring Extrinol additive – nearly akin to Chemaloy, but distinctly its own with Extrinol technology.",
+    "museum": false
+  },
+  {
+    "title": "Pennzoil Synthetic Pennzane",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-6717",
+    "description_ru": "Единственное масло в истории PCMO с добавлением MAC;",
+    "description_en": "The only passenger car motor oil (PCMO) in history to incorporate multiply alkylated cyclopentane (MAC) additives.",
+    "museum": false
+  },
+  {
+    "title": "Valvoline FourGard",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-6776",
+    "description_ru": "FourGard специально разработано для четырёх-цилиндровых двигателей! Что может быть круче;",
+    "description_en": "FourGard was specially engineered for four-cylinder engines – an unparalleled level of targeted innovation.",
+    "museum": false
+  },
+  {
+    "title": "Oilzum",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-9039",
+    "description_ru": "",
+    "description_en": "A classic and highly regarded early motor oil brand with a storied place in automotive history.",
+    "museum": false
+  },
+  {
+    "title": "Shell XMO",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4#post-9638",
+    "description_ru": "Масло Shell идеально прошедшее прожарку (по заверениям Shell). Выпускалось только для жары и сурово-жаркого климата;",
+    "description_en": "Shell oil claimed to perfectly withstand extreme heat testing; produced exclusively for hot and severely hot climates.",
+    "museum": false
+  },
+  {
+    "title": "Macmillan Ring-Free",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-5#post-10530",
+    "description_ru": "",
+    "description_en": "Macmillan Ring-Free – a pioneering oil renowned for its anti-ring-sticking properties and innovative formulation.",
+    "museum": true
+  },
+  {
+    "title": "All proof",
+    "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
+    "description_ru": "",
+    "description_en": "All Proof – an early premium motor oil celebrated for its all-around protection and reliability.",
+    "museum": true
+  },
+  {
+    "title": "Castrol XL",
+    "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
+    "description_ru": "Первое масло с растворимым модификатором трения: соединение вольфрама;",
+    "description_en": "The first motor oil to incorporate a soluble friction modifier: a tungsten compound.",
+    "museum": false
+  },
+  {
+    "title": "Kendall GT-1",
+    "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
+    "description_ru": "",
+    "description_en": "Kendall GT-1 – a high-performance icon known for its racing heritage and superior lubrication.",
+    "museum": false
+  },
+  {
+    "title": "Prestone",
+    "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
+    "description_ru": "Первое потребительское синтетическое масло PCMO. Вышло в 1945 году;",
+    "description_en": "The first consumer-available synthetic passenger car motor oil (PCMO), introduced in 1945.",
+    "museum": true
+  },
+  {
+    "title": "Shell X-100 часть 1",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-5#post-10532",
+    "description_ru": "",
+    "description_en": "The legendary Shell X-100 series – a premium multigrade oil that set new standards in the industry.",
+    "museum": false
+  },
+  {
+    "title": "Shell X-100 часть 2",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-5#post-10533",
+    "description_ru": "",
+    "description_en": "Continued exploration of Shell X-100's impact and innovations in motor oil technology.",
+    "museum": true
+  },
+  {
+    "title": "Sinclair Dino",
+    "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
+    "description_ru": "",
+    "description_en": "Sinclair Dino – a classic oil with iconic dinosaur branding and strong performance legacy.",
+    "museum": true
+  },
+  {
+    "title": "Valvoline Chemaloy",
+    "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
+    "description_ru": "Chemaloy - этого достаточно. Это так круто, что даже Pennzoil Z-7 уступит;",
+    "description_en": "Valvoline Chemaloy – legendary in its own right, so advanced that even Pennzoil Z-7 pales in comparison.",
+    "museum": true
   },
   {
     "title": "Mobil SHC",
     "url": "https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/#post-1537",
     "description_ru": "Первое PAO масло;",
-    "description_en": "The first commercially significant PAO-based engine oil, marking the true beginning of modern synthetic lubrication.",
+    "description_en": "The first fully PAO-based synthetic motor oil.",
     "museum": true
+  },
+  {
+    "title": "Mobil 1 SuperSyn",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-5#post-11996",
+    "description_ru": "",
+    "description_en": "Mobil 1 SuperSyn – an advanced evolution of the Mobil 1 lineup featuring enhanced SuperSyn anti-wear technology.",
+    "museum": false
+  },
+  {
+    "title": "Union 76 Triton",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6#post-15588",
+    "description_ru": "С 1946 года - активное применение ZDDP в моторном масле. Официально - первое масло с постоянным содержанием ZDDP;",
+    "description_en": "From 1946 onward, active use of ZDDP in motor oil; officially the first with consistent ZDDP content.",
+    "museum": false
+  },
+  {
+    "title": "Kendall The 2000 mile oil",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-5#post-13799",
+    "description_ru": "",
+    "description_en": "Kendall 'The 2000 Mile Oil' – revolutionary for guaranteeing extended drain intervals in its era.",
+    "museum": true
+  },
+  {
+    "title": "Zerolene и Polarine",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6#post-18163",
+    "description_ru": "",
+    "description_en": "Zerolene and Polarine – pioneering early motor oils from the dawn of the automotive age.",
+    "museum": false
+  },
+  {
+    "title": "Conoco Nᵗʰ",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6#post-21309",
+    "description_ru": "",
+    "description_en": "Conoco Nᵗʰ – an innovative and highly regarded formulation from Conoco's historic lineup.",
+    "museum": false
+  },
+  {
+    "title": "Sinclair Triple-X",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6#post-21376",
+    "description_ru": "Для одной из версий этого масла впервые применили частичную замену ZDDP: замена - комплексные растворимые соединения никеля",
+    "description_en": "One version of this oil pioneered the partial replacement of ZDDP with soluble nickel complex compounds.",
+    "museum": false
   }
 ]
