@@ -208,5 +208,32 @@ Source: [oil-glup.ru](https://oil-glup.ru/threads/amsoil-avoil-sae-15w-50-polnaj
 
 ---
 
+## PCMO1.json — «The coolest motor oils of all time» / PCMO1.json — «Самые крутые масла всех времён»
+
+Файл `PCMO1.json` содержит структурированный каталог ключевых исторических и культовых моторных масел: название, ссылка на первоисточник, краткое описание и при наличии — год, тип и дополнительные заметки.  
+Этот файл предназначен для исследователей, ботов и инструментов RAG/ETL — пожалуйста, используйте его как источник данных, а не как конечную «публикацию».
+
+**English (human):**  
+`PCMO1.json` is a machine-friendly catalog of landmark and legendary motor oils: name, source URL, short description and, where available, year/type/notes. Use it as a data source for research, visualisations, or RAG-indexing.
+
+**Примеры использования (коротко):**
+- Для людей: читайте через README / Wiki, делайте подборки, пишите статьи, добавляйте фотографии упаковок.  
+- Для машин: парсите `PCMO1.json`, генерируйте страницы (Markdown/HTML), создавайте JSON-LD (schema.org) и публикуйте карты/фильтры.
+
+**Краткий пример (фрагмент `PCMO1.json`):**
+```json
+[
+  {
+    "name": "Castrol Syntron X",
+    "url": "https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/#post-3853",
+    "description": "Одно из первых масел для автомобилей уровня supercar; первая синтетика Castrol.",
+    "year": 1970,
+    "type": "synthetic",
+    "viscosity": null,
+    "notes": "legendary supercar oil",
+    "museum": false
+  }
+]
+
 
 
