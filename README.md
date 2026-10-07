@@ -1,0 +1,1502 @@
+# Oil-Glup — путеводитель по форуму о моторных маслах
+
+Алфавитный указатель тем форума [oil-glup.ru](https://oil-glup.ru/): моторные масла и присадки, вязкость и допуски, лабораторные анализы (UOA и VOA), стендовые тесты, история синтетических и минеральных масел, обзоры брендов и разбор мифов. У каждой темы есть краткое описание, а под ней — вложенные ссылки на её страницы.
+
+## Главная
+
+- [**Форум oil-glup.ru — главная страница**](https://oil-glup.ru/) — все разделы и темы форума о моторных маслах.
+
+
+## 0–9 и A–Z
+
+- [**0W-12**](https://oil-glup.ru/threads/0w-12.292/) — Масла вязкости 0W-12: для чего они нужны, их плюсы и риски.
+- [**0W-16**](https://oil-glup.ru/threads/0w-16.282/) — Масла вязкости 0W-16: для чего они нужны, их плюсы и риски.
+  - [Страница 2](https://oil-glup.ru/threads/0w-16.282/page-2)
+- [**0W-20**](https://oil-glup.ru/threads/0w-20.41/) — Всё о маслах вязкости 0W-20: для каких двигателей они предназначены, их плюсы, минусы и спорные моменты.
+  - [Страница 2](https://oil-glup.ru/threads/0w-20.41/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/0w-20.41/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/0w-20.41/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/0w-20.41/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/0w-20.41/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/0w-20.41/page-7)
+- [**0W-30**](https://oil-glup.ru/threads/0w-30.363/) — Масла вязкости 0W-30: область применения, свойства и сравнение с другими классами вязкости.
+- [**0W-40 лечит двигатели, которым предписывали 0W-20, ибо что-то пошло не так**](https://oil-glup.ru/threads/0w-40-lechit-dvigateli-kotorym-predpisyvali-0w-20-ibo-chto-to-poshlo-ne-tak.332/) — Почему в двигателях, рассчитанных на 0W-20, заливают 0W-40 и что это показывает.
+  - [Страница 3](https://oil-glup.ru/threads/0w-40-lechit-dvigateli-kotorym-predpisyvali-0w-20-ibo-chto-to-poshlo-ne-tak.332/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/0w-40-lechit-dvigateli-kotorym-predpisyvali-0w-20-ibo-chto-to-poshlo-ne-tak.332/page-4)
+- [**100 лет прогресса в моторных маслах**](https://oil-glup.ru/threads/100-let-progressa-v-motornyx-maslax.379/) — Обзор столетнего развития моторных масел: ключевые технологии и этапы.
+  - [Страница 2](https://oil-glup.ru/threads/100-let-progressa-v-motornyx-maslax.379/page-2)
+- [**10W-30**](https://oil-glup.ru/threads/10w-30.395/) — Масла вязкости 10W-30: область применения, свойства и сравнение с другими классами вязкости.
+  - [Страница 2](https://oil-glup.ru/threads/10w-30.395/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/10w-30.395/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/10w-30.395/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/10w-30.395/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/10w-30.395/page-6)
+- [**10W-40**](https://oil-glup.ru/threads/10w-40.360/) — Масла вязкости 10W-40: область применения, свойства и сравнение с другими классами вязкости.
+  - [Страница 2](https://oil-glup.ru/threads/10w-40.360/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/10w-40.360/page-3)
+- [**20W-50**](https://oil-glup.ru/threads/20w-50.523/) — Масла вязкости 20W-50: область применения, свойства и сравнение с другими классами вязкости.
+- [**5W-20**](https://oil-glup.ru/threads/5w-20.362/) — Масла вязкости 5W-20: область применения, свойства и сравнение с соседними классами вязкости.
+  - [Страница 2](https://oil-glup.ru/threads/5w-20.362/page-2)
+- [**5W-30**](https://oil-glup.ru/threads/5w-30.361/) — Масла вязкости 5W-30: область применения, свойства и сравнение с другими классами вязкости.
+- [**5W-40**](https://oil-glup.ru/threads/5w-40.359/) — Масла вязкости 5W-40: область применения, свойства и сравнение с другими классами вязкости.
+  - [Страница 3](https://oil-glup.ru/threads/5w-40.359/page-3)
+- [**ACEA в мире масел: канцелярская пустота или эталон?**](https://oil-glup.ru/threads/acea-v-mire-masel-kanceljarskaja-pustota-ili-ehtalon.58/) — Критический разбор классификации ACEA: полезный эталон или формальность.
+  - [Страница 2](https://oil-glup.ru/threads/acea-v-mire-masel-kanceljarskaja-pustota-ili-ehtalon.58/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/acea-v-mire-masel-kanceljarskaja-pustota-ili-ehtalon.58/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/acea-v-mire-masel-kanceljarskaja-pustota-ili-ehtalon.58/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/acea-v-mire-masel-kanceljarskaja-pustota-ili-ehtalon.58/page-5)
+- [**Agip F.1 Supermotoroil 20W-50 — редкая гоночная европейская полусинтетика начала 1970-х**](https://oil-glup.ru/threads/agip-f-1-supermotoroil-20w-50-redkaja-gonochnaja-evropejskaja-polusintetika-nachala-1970-x.270/) — Историческая справка о редкой гоночной полусинтетике Agip F.1 20W-50.
+- [**All Proof Synthetic SAE 10W-40 — первое 100% эстеровое PCMO, самое начало 1970-х**](https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-40-pervoe-100-ehster-pcmo-samoe-nachalo-1970-x.334/) — Историческая справка о масле All Proof Synthetic 10W-40, названном первым полностью эстеровым PCMO начала 1970-х.
+  - [Страница 2](https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-40-pervoe-100-ehster-pcmo-samoe-nachalo-1970-x.334/page-2)
+- [**All Proof Synthetic SAE 10W-50 — первое 100% эстеровое PCMO, 1974 год**](https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-50-pervoe-100-ehster-pcmo-1974-goda.32/) — Историческая справка и разбор масла All Proof Synthetic 10W-50, названного одним из первых полностью эстеровых моторных масел для легковых автомобилей.
+  - [Страница 2](https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-50-pervoe-100-ehster-pcmo-1974-goda.32/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/all-proof-synthetic-sae-10w-50-pervoe-100-ehster-pcmo-1974-goda.32/page-3)
+- [**Amoco Ultimate 5W-30 — PAO-масло 1980-х, давшее название топливу BP и Aral Ultimate**](https://oil-glup.ru/threads/amoco-ultimate-5w-30-pao-maslo-1980-x-davshee-nazvanie-toplivu-bp-i-aral-ultimate.346/) — История масла Amoco Ultimate 5W-30 на основе PAO, давшего имя топливу BP и Aral Ultimate.
+- [**Amsoil 100% PAO + эстеры синтетика SAE 10W-40 — вторая половина 1970-х**](https://oil-glup.ru/threads/amsoil-100-pao-ehstery-sintetika-sae-10w-40-vtoraja-polovina-1970-x.28/) — Историческая справка о синтетике Amsoil на основе PAO и эстеров (SAE 10W-40, вторая половина 1970-х).
+- [**Amsoil AVOIL SAE 15W-50 — полная авиационно-поршневая беззольная PAO-синтетика из 1983 года**](https://oil-glup.ru/threads/amsoil-avoil-sae-15w-50-polnaja-aviacionno-porshnevaja-bezzolnaja-pao-sintetika-iz-1983.26/) — Историческая справка о масле Amsoil AVOIL 15W-50: беззольной PAO-синтетике для поршневой авиации 1983 года.
+  - [Страница 2](https://oil-glup.ru/threads/amsoil-avoil-sae-15w-50-polnaja-aviacionno-porshnevaja-bezzolnaja-pao-sintetika-iz-1983.26/page-2)
+- [**Amsoil Super Premium 100% диэстеровая синтетика SAE 10W-40 второго поколения, 1974**](https://oil-glup.ru/threads/amsoil-super-premium-100-diehsterovaja-sintetika-sae-10w-40-vtorogo-pokolenija-1974.319/) — Историческая справка о втором поколении полностью диэстеровой синтетики Amsoil 10W-40 (1974).
+- [**Amway Freedom 5W-30 — PAO-синтетика конца 1980-х**](https://oil-glup.ru/threads/amway-freedom-5w-30-pao-sintetika-konca-1980-x.417/) — Историческая справка о масле Amway Freedom 5W-30 — PAO-синтетике конца 1980-х.
+- [**Amzoil Super Premium 100% диэстеровая синтетика SAE 10W-40 первого поколения, 1973**](https://oil-glup.ru/threads/amzoil-super-premium-100-diehsterovaja-sintetika-sae-10w-40-pervogo-pokolenija-1973.331/) — Историческая справка о первом поколении полностью диэстеровой синтетики Amsoil Super Premium 10W-40 (1973).
+  - [Страница 2](https://oil-glup.ru/threads/amzoil-super-premium-100-diehsterovaja-sintetika-sae-10w-40-pervogo-pokolenija-1973.331/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/amzoil-super-premium-100-diehsterovaja-sintetika-sae-10w-40-pervogo-pokolenija-1973.331/page-3)
+- [**Analube — полная PAG-синтетика с присадками SAE 10W-40 из 1973 года**](https://oil-glup.ru/threads/analube-polnaja-pag-sintetika-s-prisadkami-sae-10w-40-iz-1973.34/) — Историческая справка о масле Analube — полной PAG-синтетике с присадками 10W-40 (1973 год).
+- [**Anderol 471 Ashless Ester — синтетическое беззольное масло с TCP для поршневой авиации, 1960 г.**](https://oil-glup.ru/threads/anderol-471-ashless-ester-sinteticheskoe-bezzolnoe-maslo-c-tcp-dlja-porshnevoj-aviacii-1960-g.31/) — Историческая справка о беззольном эстеровом авиационном масле Anderol 471 с присадкой TCP (1960 год).
+  - [Страница 2](https://oil-glup.ru/threads/anderol-471-ashless-ester-sinteticheskoe-bezzolnoe-maslo-c-tcp-dlja-porshnevoj-aviacii-1960-g.31/page-2)
+- [**Anderol 800 SAE 10W-40 — 100% диэстеровая синтетика из 1978 года от Tenneco**](https://oil-glup.ru/threads/anderol-800-sae-10w-40-100-diehsterovaja-sintetika-iz-1978-ot-tenneco.291/) — Историческая справка о масле Anderol 800 10W-40 от Tenneco — диэстеровой синтетике 1978 года.
+- [**API SQ**](https://oil-glup.ru/threads/api-sq.79/) — Спецификация API SQ: назначение, требования и отличия от предыдущих уровней.
+  - [Страница 2](https://oil-glup.ru/threads/api-sq.79/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/api-sq.79/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/api-sq.79/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/api-sq.79/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/api-sq.79/page-6)
+- [**Aral Kowal 20W-20 — легендарный аналог M8V из 1970-х**](https://oil-glup.ru/threads/aral-kowal-20w-20-legendarnyj-analog-m8v-iz-1970-x.14/) — Историческая справка о масле Aral Kowal 20W-20, названном аналогом M8V 1970-х годов.
+- [**Arco Graphite 10W-40 — масло с модификатором трения из конца 70-х**](https://oil-glup.ru/threads/arco-graphite-10w-40-maslo-s-modifikatorom-trenija-iz-konca-70-x.114/) — Историческая справка о масле Arco Graphite 10W-40 с модификатором трения.
+- [**BMW 100% Synthetic SAE 5W-30 — первое синтетическое масло BMW программы longlife, начало 2000-х**](https://oil-glup.ru/threads/bmw-100-synthetic-sae-5w-30-pervoe-sinteticheskoe-maslo-bmw-programmy-longlife-nachala-2000-x.310/) — Историческая справка о первом синтетическом масле BMW для программы longlife начала 2000-х.
+- [**BMW USA Original SAE 15W-40 — единственное в истории оригинальное минеральное BMW-масло для рынка США, начало 2000-х**](https://oil-glup.ru/threads/bmw-usa-original-sae-15w-40-edinstvennoe-v-istorii-originalnoe-mineralnoe-bmw-maslo-dlja-rynka-ssha-nachala-2000-x.458/) — Историческая справка о BMW USA Original 15W-40 — единственном минеральном масле BMW для рынка США.
+- [**CCS (Cold Cranking Simulator): хороший тест, но спекуляция в руках МП**](https://oil-glup.ru/threads/ccs-cold-cranking-simulator-xoroshij-test-no-spekuljacija-v-rukax-mp.163/) — Тест CCS (имитатор холодной прокрутки): чем он ценен и как им спекулируют в маркетинге.
+  - [Страница 2](https://oil-glup.ru/threads/ccs-cold-cranking-simulator-xoroshij-test-no-spekuljacija-v-rukax-mp.163/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/ccs-cold-cranking-simulator-xoroshij-test-no-spekuljacija-v-rukax-mp.163/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/ccs-cold-cranking-simulator-xoroshij-test-no-spekuljacija-v-rukax-mp.163/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/ccs-cold-cranking-simulator-xoroshij-test-no-spekuljacija-v-rukax-mp.163/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/ccs-cold-cranking-simulator-xoroshij-test-no-spekuljacija-v-rukax-mp.163/page-6)
+- [**ChemLube 10W-40 Synthetic API SE — 100% диэстеровая синтетика из 1970-х**](https://oil-glup.ru/threads/chemlube-10w-40-synthetic-api-se-100-diehsterovaja-sintetika-iz-1970-x.306/) — Историческая справка о ChemLube 10W-40 уровня API SE — полностью диэстеровой синтетике 1970-х.
+- [**Concerning Low Viscosity in the Era Prior to CAFE**](https://oil-glup.ru/threads/concerning-low-viscosity-in-the-era-prior-to-cafe.85/) — Низковязкие масла в эпоху до введения норм CAFE: что применялось и зачем.
+  - [Страница 2](https://oil-glup.ru/threads/concerning-low-viscosity-in-the-era-prior-to-cafe.85/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/concerning-low-viscosity-in-the-era-prior-to-cafe.85/page-3)
+- [**Conoco Polar Start DN-600 Fluid — первая диалкилбензольная (DAB) синтетическая жидкость, производится с 1969 года**](https://oil-glup.ru/threads/conoco-polar-start-dn-600-fluid-pervaja-dialkilbenzolnaja-dab-sinteticheskaja-zhidkost-proizvoditsja-s-1969-goda.467/) — Историческая справка о Conoco Polar Start DN-600 Fluid — первой диалкилбензольной (DAB) синтетической жидкости (с 1969 года).
+- [**Conoco Polar Start DN-600 SAE 10W-30 — единственное в мире диалкилбензольное (DAB) моторное масло 1980 года**](https://oil-glup.ru/threads/conoco-polar-start-dn-600-sae-10w-30-edinstvennoe-v-mire-dialkilbenzolnoe-dab-motornoe-maslo-1980-goda.444/) — Историческая справка о Conoco Polar Start DN-600 10W-30 — моторном масле на диалкилбензоле (DAB), 1980 год.
+  - [Страница 2](https://oil-glup.ru/threads/conoco-polar-start-dn-600-sae-10w-30-edinstvennoe-v-mire-dialkilbenzolnoe-dab-motornoe-maslo-1980-goda.444/page-2)
+- [**Convoy 10W-50 — парасинтетика 1977 года**](https://oil-glup.ru/threads/convoy-10w-50-parasintetika-1977-goda.116/) — Историческая справка о Convoy 10W-50 — «парасинтетике» 1977 года.
+- [**Dezol Oiloy SAE 30 Heavy Duty из 1950-х**](https://oil-glup.ru/threads/dezol-oiloy-sae-30-heavy-duty-iz-1950-x.322/) — Историческая справка о масле Dezol Oiloy SAE 30 Heavy Duty 1950-х годов.
+- [**Eiserne Ausschweifungen**](https://oil-glup.ru/threads/eiserne-ausschweifungen.87/) — Авторская тема форума с немецким названием «Eiserne Ausschweifungen».
+  - [Страница 2](https://oil-glup.ru/threads/eiserne-ausschweifungen.87/page-2)
+- [**EON E-11 — полная диэстеровая синтетика 1974 года, 10W-40**](https://oil-glup.ru/threads/eon-e-11-polnaja-diehsterovaja-sintetika-iz-1974-goda-10w-40.21/) — Историческая справка о масле EON E-11 10W-40 — полностью диэстеровой синтетике 1974 года.
+  - [Страница 2](https://oil-glup.ru/threads/eon-e-11-polnaja-diehsterovaja-sintetika-iz-1974-goda-10w-40.21/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/eon-e-11-polnaja-diehsterovaja-sintetika-iz-1974-goda-10w-40.21/page-3)
+- [**EON E-11 — полная диэстеровая синтетика 1974 года, 10W-40 (вариант 2)**](https://oil-glup.ru/threads/eon-e-11-polnaja-diehsterovaja-sintetika-iz-1974-goda-10w-40-variant-2.414/) — Вторая версия разбора масла EON E-11 10W-40, полностью диэстеровой синтетики 1974 года.
+- [**Freedom SAE 10W-40 API SE — 100% диэстеровая синтетика с символическим названием из 1978 года**](https://oil-glup.ru/threads/freedom-sae-10w-40-api-se-100-diehsterovaja-sintetika-s-simvolicheskim-nazvaniem-iz-1978.352/) — Историческая справка о масле Freedom 10W-40 уровня API SE: полностью диэстеровая синтетика 1978 года.
+  - [Страница 2](https://oil-glup.ru/threads/freedom-sae-10w-40-api-se-100-diehsterovaja-sintetika-s-simvolicheskim-nazvaniem-iz-1978.352/page-2)
+- [**Getty Gold Synthetic Formula 10W-40 из 1976 года**](https://oil-glup.ru/threads/getty-gold-synthetic-formula-10w-40-iz-1976.11/) — Историческая справка о масле Getty Gold Synthetic Formula 10W-40 1976 года.
+- [**GM Detergency Concentrate — первый присадочный пакет General Motors из 1955 года**](https://oil-glup.ru/threads/gm-detergency-concentrate-pervyj-prisadochnyj-paket-general-motors-iz-1955.45/) — Историческая справка о первом присадочном пакете General Motors — GM Detergency Concentrate (1955 год).
+- [**HTHS (High Temperature High Shear): что это**](https://oil-glup.ru/threads/hths-high-temperature-high-shear-chto-ehto.204/) — Показатель HTHS: что это, как измеряется и почему о нём спорят.
+  - [Страница 2](https://oil-glup.ru/threads/hths-high-temperature-high-shear-chto-ehto.204/page-2)
+- [**i-pH, iPH или pH моторных масел**](https://oil-glup.ru/threads/i-ph-iph-ili-ph-motornyx-masel.353/) — Показатель pH моторных масел: как его понимать, измерять и интерпретировать.
+- [**ILSAC GF-6**](https://oil-glup.ru/threads/ilsac-gf-6.355/) — Спецификация ILSAC GF-6: требования, назначение и отличия от GF-5.
+- [**ILSAC GF-7**](https://oil-glup.ru/threads/ilsac-gf-7.92/) — Спецификация ILSAC GF-7: требования, назначение и отличия от GF-6.
+  - [Страница 2](https://oil-glup.ru/threads/ilsac-gf-7.92/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/ilsac-gf-7.92/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/ilsac-gf-7.92/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/ilsac-gf-7.92/page-5)
+- [**ILSAC GF-8**](https://oil-glup.ru/threads/ilsac-gf-8.459/) — Спецификация ILSAC GF-8: ожидаемые требования и отличия от предыдущих версий.
+- [**Kendall The 2000-Mile Oil — знаменитое моторное масло SAE 40, версия 1949–1950**](https://oil-glup.ru/threads/kendall-the-2000-mile-oil-znamenitoe-motornoe-maslo-sae-40-versija-1949-1950.338/) — Историческая справка о знаменитом масле Kendall The 2000-Mile Oil SAE 40 (версия 1949–1950).
+- [**LBT Oil Recharger — восстанавливающий концентрат присадок уровня качества API SE, 1979 год**](https://oil-glup.ru/threads/lbt-oil-recharger-vosstanavlivajuschij-koncentrat-prisadok-urovnja-kachestva-api-se-1979-goda.286/) — Историческая справка о концентрате присадок LBT Oil Recharger уровня API SE (1979 год).
+- [**LeMans Chemical Formula 25W-50 — масло на PAG из 1970-х**](https://oil-glup.ru/threads/lemans-chemical-formula-25w-50-maslo-na-pag-iz-1970-x.44/) — Историческая справка о масле LeMans Chemical Formula 25W-50 на основе PAG.
+- [**Lifetime Lube 10W-40 API SE — синтетический призрак 1972 года, масло, которое, вероятно, опередило Amsoil**](https://oil-glup.ru/threads/lifetime-lube-10w-40-api-se-sinteticheskij-prizrak-1972-maslo-kotoroe-verojatno-operedilo-amsoil.503/) — Историческая справка о Lifetime Lube 10W-40 уровня API SE — «синтетическом призраке» 1972 года.
+- [**Love Synthetic Lubricant SAE 20W-50 — исключительно чистое PAO из 1976 года**](https://oil-glup.ru/threads/love-synthetic-lubricant-sae-20w-50-iskljuchitelno-chistoe-pao-iz-1976.33/) — Историческая справка о Love Synthetic Lubricant 20W-50 — чистой PAO-синтетике 1976 года.
+- [**LSPI (Low Speed Pre-Ignition)**](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/) — Преждевременное воспламенение на низких оборотах: причины, роль масла и присадок, способы защиты турбированных двигателей.
+  - [Страница 2](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-7)
+  - [Страница 10](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/lspi-low-speed-pre-ignition.190/page-12)
+- [**LSPI в чате**](https://oil-glup.ru/threads/lspi-v-chjate.510/) — Обсуждение LSPI (преждевременного воспламенения на низких оборотах) в формате чата.
+  - [Страница 2](https://oil-glup.ru/threads/lspi-v-chjate.510/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/lspi-v-chjate.510/page-3)
+- [**LSPI-пакет**](https://oil-glup.ru/threads/lspi-paket.466/) — Пакет присадок для защиты от LSPI: из чего он состоит и как работает.
+- [**Lubrichem 100% Synthetic Lubricant SAE 10W-40 — диэстеровая синтетика 1970-х**](https://oil-glup.ru/threads/lubrichem-100-synthetic-lubricant-sae-10w-40-diehster-sintetika-1970-x.30/) — Историческая справка о Lubrichem 100% Synthetic Lubricant 10W-40 — диэстеровой синтетике 1970-х.
+- [**Luxe Chaitech 0W-20 (2025)**](https://oil-glup.ru/threads/luxe-chaitech-0w-20-2025.428/) — Обзор и анализ масла Luxe Chaitech 0W-20 образца 2025 года.
+- [**MacMillan Ring-Free Motor Oil SAE 10 — уникальное нафтеновое минеральное масло 1940-х**](https://oil-glup.ru/threads/macmillan-ring-free-motor-oil-sae-10-unikalnoe-naftenovoe-mineralnoe-maslo-1940-x.13/) — Историческая справка о нафтеновом минеральном масле MacMillan Ring-Free SAE 10 1940-х годов.
+- [**MacMillan Ring-Free Motor Oil SAE 20 — уникальное нафтеновое минеральное масло 1940 года**](https://oil-glup.ru/threads/macmillan-ring-free-motor-oil-sae-20-unikalnoe-naftenovoe-mineralnoe-maslo-1940-goda.309/) — Историческая справка о нафтеновом минеральном масле MacMillan Ring-Free SAE 20 (1940 год).
+- [**Mercedes-Benz не разбираются в моторных маслах**](https://oil-glup.ru/threads/mercedes-benz-ne-razbirajutsja-v-motornyx-maslax.443/) — Критический разбор политики Mercedes-Benz в отношении моторных масел.
+- [**Mobil 1 5W-20 (современная 0W-16) — первая в мире глобальная PAO-синтетика 1975 года**](https://oil-glup.ru/threads/mobil-1-5w-20-sovremennaja-0w-16-pervaja-v-mire-globalnaja-pao-sintetika-1975-goda.29/) — Историческая справка о Mobil 1 5W-20, названном первой в мире глобальной PAO-синтетикой 1975 года, и его современном аналоге 0W-16.
+  - [Страница 2](https://oil-glup.ru/threads/mobil-1-5w-20-sovremennaja-0w-16-pervaja-v-mire-globalnaja-pao-sintetika-1975-goda.29/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/mobil-1-5w-20-sovremennaja-0w-16-pervaja-v-mire-globalnaja-pao-sintetika-1975-goda.29/page-3)
+- [**Mobil 1 5W-30 — PAO-синтетика Mobil 1980 года**](https://oil-glup.ru/threads/mobil-1-5w-30-pao-sintetika-mobil-1980-goda.356/) — Историческая справка о Mobil 1 5W-30 образца 1980 года на основе PAO.
+- [**Mobil 1 Advanced Clean 5W-30 (2025)**](https://oil-glup.ru/threads/mobil-1-advanced-clean-5w-30-2025.429/) — Обзор и анализ масла Mobil 1 Advanced Clean 5W-30 образца 2025 года.
+- [**Mobil 1 дороже, а PAO и эстеров меньше**](https://oil-glup.ru/threads/mobil-1-dorozhe-a-pao-i-ehsterov-menshe.325/) — О том, почему Mobil 1 дорожает, а доля PAO и эстеров в составе уменьшается.
+- [**Mobil AV-1 SAE 20W-50 — самое скандальное моторное масло в истории (вторая половина 1980-х)**](https://oil-glup.ru/threads/mobil-av-1-sae-20w-50-samoe-skandalnoe-motornoe-maslo-v-istorii-vtoraja-polovina-1980-x.340/) — История масла Mobil AV-1 20W-50, ставшего одним из самых скандальных в истории моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/mobil-av-1-sae-20w-50-samoe-skandalnoe-motornoe-maslo-v-istorii-vtoraja-polovina-1980-x.340/page-2)
+- [**Mobil AV-1 — летающий ужас**](https://oil-glup.ru/threads/mobil-av-1-letajuschij-uzhas.217/) — Разбор авиационного масла Mobil AV-1, вокруг которого сложилась мрачная репутация.
+  - [Страница 2](https://oil-glup.ru/threads/mobil-av-1-letajuschij-uzhas.217/page-2)
+- [**Mobil Fotoscope — оптический тестер моторного масла**](https://oil-glup.ru/threads/mobil-fotoscope-opticheskij-tester-motornogo-masla.413/) — Разбор оптического тестера моторного масла Mobil Fotoscope и того, что он показывает на самом деле.
+- [**Mobil Mobiloil SAE 30 — классическая минералка 1960-х**](https://oil-glup.ru/threads/mobil-mobiloil-sae-30-klassicheskaja-mineralka-1960-x.9/) — Историческая справка о классическом минеральном масле Mobiloil SAE 30 1960-х годов.
+- [**Mobil SHC без указания вязкости (современный стандарт 10W-60) — первая в мире PAO-синтетика 1973 года**](https://oil-glup.ru/threads/mobil-shc-bez-ukazanija-vjazkosti-sovremennyj-standart-10w-60-pervaja-v-mire-pao-sintetika-1973-goda.20/) — Историческая справка о масле Mobil SHC 1973 года, названном первой в мире PAO-синтетикой, и его соотнесении с современной вязкостью 10W-60.
+  - [Страница 2](https://oil-glup.ru/threads/mobil-shc-bez-ukazanija-vjazkosti-sovremennyj-standart-10w-60-pervaja-v-mire-pao-sintetika-1973-goda.20/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/mobil-shc-bez-ukazanija-vjazkosti-sovremennyj-standart-10w-60-pervaja-v-mire-pao-sintetika-1973-goda.20/page-3)
+- [**MRV: метод измерить вязкость моторного масла**](https://oil-glup.ru/threads/mrv-metod-izmerit-vjazkost-motornogo-masla.539/) — Метод MRV для измерения вязкости масла при низких температурах и его значение.
+  - [Страница 2](https://oil-glup.ru/threads/mrv-metod-izmerit-vjazkost-motornogo-masla.539/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/mrv-metod-izmerit-vjazkost-motornogo-masla.539/page-3)
+- [**Nitrex 5W-40 — второе 5W-40 в истории из 1970-х**](https://oil-glup.ru/threads/nitrex-5w-40-vtoroe-5w-40-v-istorii-iz-1970-x.117/) — Историческая справка о масле Nitrex 5W-40, названном вторым 5W-40 в истории, 1970-е годы.
+- [**Noack: его в качель**](https://oil-glup.ru/threads/noack-ego-v-kachel.69/) — Испаряемость по методу Noack: что показывает, как его интерпретируют и почему вокруг него столько споров.
+  - [Страница 2](https://oil-glup.ru/threads/noack-ego-v-kachel.69/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/noack-ego-v-kachel.69/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/noack-ego-v-kachel.69/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/noack-ego-v-kachel.69/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/noack-ego-v-kachel.69/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/noack-ego-v-kachel.69/page-7)
+- [**OCI: интервал замены масла**](https://oil-glup.ru/threads/oci.394/) — Интервал замены масла (OCI): как его выбирать, от чего он зависит и что показывают анализы.
+  - [Страница 2](https://oil-glup.ru/threads/oci.394/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/oci.394/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/oci.394/page-4)
+  - [Страница 10](https://oil-glup.ru/threads/oci.394/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/oci.394/page-11)
+- [**Olea jacta est, или Почему CAFE капало по капле**](https://oil-glup.ru/threads/olea-jacta-est-ili-pochemu-cafe-kapalo-po-kaple.341/) — Как нормы CAFE постепенно влияли на развитие и вязкость моторных масел.
+- [**Pennzoil Multi-Vis Motor Oil with Z7 SAE 20W-40 — развитие легендарных масел 1950-х из 1970-х**](https://oil-glup.ru/threads/pennzoil-multi-vis-motor-oil-with-z7-sae-20w-40-razvitie-legendarnyx-masel-1950-x-iz-1970-x.15/) — Историческая справка о Pennzoil Multi-Vis с Z7 20W-40 — развитии легендарных масел 1950-х.
+- [**Phillips 66 Premium Heavy Duty 10W-10 Motor Oil из 1950-х**](https://oil-glup.ru/threads/phillips-66-premium-heavy-duty-10w-10-motor-oil-iz-1950-x.16/) — Историческая справка о масле Phillips 66 Premium Heavy Duty 10W-10 1950-х годов.
+- [**PQ Index (ASTM D8184)**](https://oil-glup.ru/threads/pq-index-astm-d8184.135/) — Показатель PQ Index по ASTM D8184: что он измеряет и как использовать результат.
+- [**Prestone — первая в мире товарная PCMO PVL-синтетика 10W-10 из 1950-х, синтезирована в 1943 году**](https://oil-glup.ru/threads/prestone-pervaja-v-mire-tovarnaja-pcmo-pvl-sintetika-10w-10-iz-1950-x-sintezirovana-v-1943.19/) — Историческая справка о Prestone 10W-10, названном первой в мире товарной PVL-синтетикой для легковых автомобилей, синтезированной в 1943 году.
+  - [Страница 2](https://oil-glup.ru/threads/prestone-pervaja-v-mire-tovarnaja-pcmo-pvl-sintetika-10w-10-iz-1950-x-sintezirovana-v-1943.19/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/prestone-pervaja-v-mire-tovarnaja-pcmo-pvl-sintetika-10w-10-iz-1950-x-sintezirovana-v-1943.19/page-3)
+- [**Quaker State SAE 10W-10 из 1940-х**](https://oil-glup.ru/threads/quaker-state-sae-10w-10-iz-1940-x.12/) — Историческая справка о масле Quaker State SAE 10W-10 1940-х годов.
+- [**Rock'n'Brick: Twist, Blend and Stirred**](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/) — Большая авторская тема о смешивании масел и экспериментах с составами; название обыгрывает известную фразу про коктейль.
+  - [Страница 2](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-14)
+  - [Страница 17](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-17)
+  - [Страница 19](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-19)
+  - [Страница 21](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-21)
+  - [Страница 23](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-28)
+  - [Страница 29](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-29)
+  - [Страница 30](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-30)
+  - [Страница 31](https://oil-glup.ru/threads/rock-n-brick-twist-blend-and-stirred.120/page-31)
+- [**Rowe Hightec Synth RS 5W-40 (2024)**](https://oil-glup.ru/threads/rowe-hightec-synth-rs-5w-40-2024.432/) — Обзор и анализ моторного масла Rowe Hightec Synth RS 5W-40 образца 2024 года.
+- [**Royal Triton SAE 20 — премиальное минеральное масло, версия первой половины 1950-х**](https://oil-glup.ru/threads/royal-triton-sae-20-premialnoe-mineralnoe-maslo-versija-pervoj-poloviny-1950-x.318/) — Историческая справка о премиальном минеральном масле Royal Triton SAE 20 начала 1950-х годов.
+- [**Royal Triton SAE 5W-20 — выдающееся минеральное масло 1950-х**](https://oil-glup.ru/threads/royal-triton-sae-5w-20-vydajuscheesja-mineralnoe-maslo-1950-x.290/) — Историческая справка о минеральном масле Royal Triton SAE 5W-20 1950-х годов.
+  - [Страница 2](https://oil-glup.ru/threads/royal-triton-sae-5w-20-vydajuscheesja-mineralnoe-maslo-1950-x.290/page-2)
+- [**RRBO**](https://oil-glup.ru/threads/rrbo.172/) — Регенерированные (повторно очищенные) базовые масла: качество, свойства и применение.
+  - [Страница 2](https://oil-glup.ru/threads/rrbo.172/page-2)
+- [**Schaeffer's Micron Moly — масло с органическим молибденом, одно из первых с MoDTC, начало 1990-х**](https://oil-glup.ru/threads/schaeffers-micron-moly-maslo-c-org-molibdenom-odno-iz-pervyx-s-modtc-nachalo-1990-x.119/) — Историческая справка о Schaeffer's Micron Moly — одном из первых масел с органическим молибденом (MoDTC).
+- [**Sequence IIIH (ASTM D8111)**](https://oil-glup.ru/threads/sequence-iiih-ili-astm-d8111.324/) — Стендовый тест Sequence IIIH по ASTM D8111: оценка стойкости масла к окислению, загустеванию и образованию отложений при высокой температуре.
+  - [Страница 2](https://oil-glup.ru/threads/sequence-iiih-ili-astm-d8111.324/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/sequence-iiih-ili-astm-d8111.324/page-3)
+- [**Sequence IVB (ASTM D8350)**](https://oil-glup.ru/threads/sequence-ivb-ili-astm-d8350.70/) — Стендовый тест Sequence IVB по ASTM D8350: защита деталей газораспределительного механизма от износа.
+  - [Страница 2](https://oil-glup.ru/threads/sequence-ivb-ili-astm-d8350.70/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/sequence-ivb-ili-astm-d8350.70/page-3)
+- [**Sequence VH (ASTM D8256)**](https://oil-glup.ru/threads/sequence-vh-ili-astm-d8256.183/) — Стендовый тест Sequence VH по ASTM D8256: образование шлама и лака в двигателе.
+- [**Sequence X (ASTM D8279)**](https://oil-glup.ru/threads/sequence-x-ili-astm-d8279.299/) — Стендовый тест Sequence X по ASTM D8279, применяемый при оценке моторных масел.
+- [**Shell X-100 Premium 10W-30 — первая в мире беззольная моторная минералка с присадками, 1961 год**](https://oil-glup.ru/threads/shell-x-100-premuim-10w-30-pervaja-v-mire-bezzolnaja-s-prisadkami-motornaja-mineralka-1961-goda.7/) — Историческая справка о Shell X-100 Premium 10W-30 1961 года, названном первой беззольной моторной минералкой с присадками.
+  - [Страница 2](https://oil-glup.ru/threads/shell-x-100-premuim-10w-30-pervaja-v-mire-bezzolnaja-s-prisadkami-motornaja-mineralka-1961-goda.7/page-2)
+- [**Sinclair Dino Supreme — уникальное масло 10W-40 с никель-фосфорной присадкой середины 1960-х**](https://oil-glup.ru/threads/sinclair-dino-supreme-unikalnoe-maslo-10w-40-s-nikel-fosfornoj-prisadkoj-serediny-1960-x.27/) — Историческая справка о Sinclair Dino Supreme 10W-40 с никель-фосфорной присадкой.
+- [**Sintec Premium 9000 0W-30 (2025)**](https://oil-glup.ru/threads/sintec-premium-9000-0w-30-2025.435/) — Обзор и анализ моторного масла Sintec Premium 9000 0W-30 образца 2025 года.
+- [**Sohio Boron QVO 10W-40 (Semi-QVO): первое 5W-40 в истории моторных масел**](https://oil-glup.ru/threads/sohio-boron-qvo-10w-40-semi-qvo-qvo-pervoe-5w-40-v-istorii-motornyx-masel.328/) — Историческая справка о Sohio Boron QVO, названном первым 5W-40 в истории моторных масел.
+- [**Stabl-Flo — первый бутиковый присадочный пакет 1950-х от автора применения эстера в PCMO**](https://oil-glup.ru/threads/stabl-flo-pervyj-butikovyj-prisadochnyj-paket-1950-x-ot-avtora-primenenija-ester-v-pcmo.347/) — Историческая справка о Stabl-Flo — первом бутиковом присадочном пакете 1950-х от автора применения эстеров в PCMO.
+  - [Страница 2](https://oil-glup.ru/threads/stabl-flo-pervyj-butikovyj-prisadochnyj-paket-1950-x-ot-avtora-primenenija-ester-v-pcmo.347/page-2)
+- [**Steen-C 2T — PAG-синтетика из 1960-х**](https://oil-glup.ru/threads/steen-c-2t-pag-sintetika-iz-1960-x.18/) — Историческая справка о Steen-C 2T — PAG-синтетике 1960-х годов.
+- [**Steen-C — первое бутиковое синтетическое масло 20W-40 на PAG**](https://oil-glup.ru/threads/steen-c-pervoe-butikovoe-sinteticheskoe-maslo-20w-40-na-pag.261/) — Историческая справка о Steen-C — первом бутиковом синтетическом масле 20W-40 на основе PAG.
+  - [Страница 2](https://oil-glup.ru/threads/steen-c-pervoe-butikovoe-sinteticheskoe-maslo-20w-40-na-pag.261/page-2)
+- [**Templar Synthetic Oil SAE 10W-40 — полная диэстеровая синтетика из середины 1970-х**](https://oil-glup.ru/threads/templar-synthetic-oil-sae-10w-40-polnaja-diehsterovaja-sintetika-iz-serediny-1970-x.25/) — Историческая справка о масле Templar Synthetic Oil 10W-40 — полностью диэстеровой синтетике середины 1970-х.
+- [**TEOST смешной**](https://oil-glup.ru/threads/teost-smeshnoj.505/) — Шутливый разбор теста TEOST: что он измеряет и как его интерпретировать.
+- [**Total Quartz 9000 5W-40 (2025)**](https://oil-glup.ru/threads/total-quartz-9000-5w-40-2025.431/) — Обзор и анализ моторного масла Total Quartz 9000 5W-40 образца 2025 года.
+- [**Ultron 10W-40 — 100% диэстеровая синтетика из 1980-х**](https://oil-glup.ru/threads/ultron-10w-40-100-diehsterovaja-sintetika-iz-1980-x.115/) — Историческая справка о масле Ultron 10W-40 — полностью диэстеровой синтетике 1980-х.
+- [**Union Carbide 2T — PAG-синтетика 1960-х**](https://oil-glup.ru/threads/union-carbide-2t-pag-sintetika-1960-x.17/) — Историческая справка о масле Union Carbide 2T — PAG-синтетике 1960-х годов.
+- [**Universal Lubricants SL-1 SAE 10W-40 — 100% диэстеровая синтетика второго поколения из 1976 года**](https://oil-glup.ru/threads/universal-lubricants-sl-1-sae-10w-40-100-diehsterovaja-sintetika-vtorogo-pokolenija-iz-1976-goda.518/) — Историческая справка о Universal Lubricants SL-1 10W-40 — диэстеровой синтетике второго поколения 1976 года.
+- [**UOA Extreme VRS GTZ 0W-20 (2023)**](https://oil-glup.ru/threads/uoa-extreme-vrs-gtz-0w-20-2023.126/) — Анализ отработанного масла Extreme VRS GTZ 0W-20 образца 2023 года.
+  - [Страница 2](https://oil-glup.ru/threads/uoa-extreme-vrs-gtz-0w-20-2023.126/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/uoa-extreme-vrs-gtz-0w-20-2023.126/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/uoa-extreme-vrs-gtz-0w-20-2023.126/page-4)
+- [**UOA Nickol Oil Mix — «неординарность» 0W-20 (2026)**](https://oil-glup.ru/threads/uoa-nickol-oil-mix-neordinarnost-0w-20-2026.476/) — Анализ отработанного масла Nickol Oil Mix 0W-20 образца 2026 года.
+  - [Страница 2](https://oil-glup.ru/threads/uoa-nickol-oil-mix-neordinarnost-0w-20-2026.476/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/uoa-nickol-oil-mix-neordinarnost-0w-20-2026.476/page-3)
+- [**UOA Polymerium XPro2 0W-20 GF-6A (2024)**](https://oil-glup.ru/threads/uoa-polymerium-xpro2-0w-20-gf6a-2024.52/) — Анализ отработанного масла Polymerium XPro2 0W-20 по стандарту GF-6A, образец 2024 года.
+  - [Страница 2](https://oil-glup.ru/threads/uoa-polymerium-xpro2-0w-20-gf6a-2024.52/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/uoa-polymerium-xpro2-0w-20-gf6a-2024.52/page-3)
+- [**UOA Valvoline R&P 5W-30 (2025)**](https://oil-glup.ru/threads/uoa-valvoline-r-p-5w-30-2025.336/) — Анализ отработанного масла Valvoline R&P 5W-30 образца 2025 года.
+- [**UOA Valvoline Restore & Protect 0W-20 (2024)**](https://oil-glup.ru/threads/uoa-valvoline-restore-protect-0w-20-2024.308/) — Анализ отработанного масла Valvoline Restore & Protect 0W-20 образца 2024 года.
+- [**UOA: тред, но авторский**](https://oil-glup.ru/threads/uoa-tred-no-avtorskij.94/) — Авторская тема об анализе отработанного масла (UOA).
+  - [Страница 2](https://oil-glup.ru/threads/uoa-tred-no-avtorskij.94/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/uoa-tred-no-avtorskij.94/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/uoa-tred-no-avtorskij.94/page-4)
+- [**Valvoline Chemaloy HD Detergent SAE 20W-20 с борированными диспергентами из 1960-х**](https://oil-glup.ru/threads/valvoline-chemaloy-hd-detergent-sae-20w-20-c-borirovannymi-dispersantami-iz-1960-x.10/) — Историческая справка о масле Valvoline Chemaloy HD Detergent SAE 20W-20 с борированными диспергентами.
+- [**Valvoline Hybrid Vehicle Full Synthetic 0W-20 (2025)**](https://oil-glup.ru/threads/valvoline-hybrid-vehicle-full-synthetic-0w-20-2025.427/) — Обзор и анализ масла Valvoline для гибридных автомобилей, Full Synthetic 0W-20, образца 2025 года.
+- [**Vantage Synthetic Blend 5W-30 (2025)**](https://oil-glup.ru/threads/vantage-synthetic-blend-5w-30-2025.430/) — Обзор и анализ полусинтетического масла Vantage Synthetic Blend 5W-30 образца 2025 года.
+- [**VOA: концентрат антифриза (2024)**](https://oil-glup.ru/threads/voa-koncentrat-antifriza-2024.407/) — Анализ свежего концентрата антифриза: состав и результаты лабораторных измерений.
+- [**VOA: нужно больше деталей**](https://oil-glup.ru/threads/voa-nuzhno-bolshe-detalej.48/) — Анализ свежего масла (VOA): какие данные нужны для содержательных выводов.
+  - [Страница 2](https://oil-glup.ru/threads/voa-nuzhno-bolshe-detalej.48/page-2)
+- [**Wagner Classic 10W-40 Premium (2025)**](https://oil-glup.ru/threads/wagner-classic-10w-40-premium-2025.323/) — Обзор и анализ масла Wagner Classic 10W-40 Premium образца 2025 года.
+- [**Wifo Motoren-Öl der Wehrmacht — первая в мире полусинтетика 1943 года (разработка 1930-х)**](https://oil-glup.ru/threads/wifo-motoren-oel-der-wehrmacht-pervaja-v-mire-polusintetika-1943-goda-razrabotka-1930-x.8/) — Историческая справка о масле Wifo для вермахта, названном первой в мире полусинтетикой (1943 год, разработка 1930-х).
+- [**Xetex 100% Synthetic Based SAE 10W-40 «60 000 Miles Plus» Motor Oil — самое начало 1980-х**](https://oil-glup.ru/threads/xetex-100-synthetic-based-sae-10w-40-60000-miles-plus-motor-oil-samoe-nachalo-1980-x.305/) — Историческая справка о масле Xetex 10W-40 «60 000 Miles Plus» на синтетической основе.
+- [**Xonex SL-1000 10W-40 — 100% диэстеровая синтетика середины 1970-х**](https://oil-glup.ru/threads/xonex-sl-1000-10w-40-100-diehsterovaja-sintetika-serediny-1970-x.289/) — Историческая справка о масле Xonex SL-1000: полностью диэстеровая синтетика середины 1970-х годов.
+  - [Страница 2](https://oil-glup.ru/threads/xonex-sl-1000-10w-40-100-diehsterovaja-sintetika-serediny-1970-x.289/page-2)
+- [**ZDDP (цинк диалкилдитиофосфат)**](https://oil-glup.ru/threads/zddp-cink-dialkilditiofosfat.130/) — Противоизносная присадка ZDDP: как она работает, её плюсы, минусы и влияние на катализаторы.
+  - [Страница 2](https://oil-glup.ru/threads/zddp-cink-dialkilditiofosfat.130/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/zddp-cink-dialkilditiofosfat.130/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/zddp-cink-dialkilditiofosfat.130/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/zddp-cink-dialkilditiofosfat.130/page-5)
+- [**Zenex SL-1000 5W-40 — 100% диэстеровая синтетика конца 1970-х**](https://oil-glup.ru/threads/zenex-sl-1000-5w-40-100-diehsterovaja-sintetika-konca-1970-x.118/) — Историческая справка о масле Zenex SL-1000 5W-40 — полностью диэстеровой синтетике конца 1970-х.
+- [**ZIC X5 5W-30 (2025)**](https://oil-glup.ru/threads/zic-x5-5w-30-2025.450/) — Обзор и анализ масла ZIC X5 5W-30 образца 2025 года.
+
+## А
+
+- [**Анализ результатов прожарщиков из МП-миров**](https://oil-glup.ru/threads/analiz-rezultatov-prozharschikov-iz-mp-mirov.527/) — Разбор результатов «прожарки» масел, полученных в разных сообществах.
+  - [Страница 2](https://oil-glup.ru/threads/analiz-rezultatov-prozharschikov-iz-mp-mirov.527/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/analiz-rezultatov-prozharschikov-iz-mp-mirov.527/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/analiz-rezultatov-prozharschikov-iz-mp-mirov.527/page-4)
+- [**Анналы PCMO**](https://oil-glup.ru/threads/annaly-pcmo.397/) — Летопись моторных масел для легковых автомобилей: события, составы и этапы развития.
+  - [Страница 2](https://oil-glup.ru/threads/annaly-pcmo.397/page-2)
+- [**Антиоксиданты**](https://oil-glup.ru/threads/antioksidanty.256/) — Антиоксиданты в моторных маслах: как работают и какие бывают.
+
+## Б
+
+- [**Бесполезные и опасные составляющие PCMO**](https://oil-glup.ru/threads/bespoleznye-i-opasnye-sostavljajuschie-pcmo.420/) — Компоненты моторных масел, которые не приносят пользы или могут быть вредными, и аргументы за и против.
+- [**Бутиковые масла: что это**](https://oil-glup.ru/threads/butikovye-masla-chto-ehto.262/) — Что такое бутиковые масла, чем они отличаются от массовых и стоит ли за них платить.
+- [**Бюджетные минеральные масла**](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/) — Обзор недорогих минеральных масел: что они дают, где уместны и на что смотреть при выборе.
+  - [Страница 2](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-12)
+  - [Страница 14](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/bjudzhetnye-mineralnye-masla.185/page-15)
+
+## В
+
+- [**В приличный мотор можно любую вязкость, ЧТД**](https://oil-glup.ru/threads/v-prilichnyj-motor-mozhno-ljubuju-vjazkost-chtd.199/) — Спорный тезис о том, что в исправный мотор можно заливать любую вязкость, и его обсуждение.
+- [**Великие гуталины, их светлость и их густейшество**](https://oil-glup.ru/threads/velikie-gutaliny-ix-svetlost-ix-gustejshestva.75/) — Ироничный разбор очень густых («гуталиновых») масел.
+  - [Страница 2](https://oil-glup.ru/threads/velikie-gutaliny-ix-svetlost-ix-gustejshestva.75/page-2)
+- [**Великолепные нафтены**](https://oil-glup.ru/threads/velikolepnye-nafteny.453/) — Нафтеновые базовые масла: достоинства и особенности.
+  - [Страница 2](https://oil-glup.ru/threads/velikolepnye-nafteny.453/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/velikolepnye-nafteny.453/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/velikolepnye-nafteny.453/page-4)
+  - [Страница 6](https://oil-glup.ru/threads/velikolepnye-nafteny.453/page-6)
+- [**Видео ОГ**](https://oil-glup.ru/threads/video-og.367/) — Видеоматериалы форума ОГ.
+  - [Страница 2](https://oil-glup.ru/threads/video-og.367/page-2)
+- [**Видеосвидетельства отказа от допуска моторного масла**](https://oil-glup.ru/threads/videosvidetelstva-otkaza-ot-dopuska-motornogo-masla.42/) — Видеоматериалы и примеры, иллюстрирующие последствия отказа от рекомендованных допусков.
+  - [Страница 2](https://oil-glup.ru/threads/videosvidetelstva-otkaza-ot-dopuska-motornogo-masla.42/page-2)
+- [**Влияние коллоидного измельчения (гомогенизации) на качество масла**](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/) — Как коллоидное измельчение (гомогенизация) влияет на свойства и качество моторного масла.
+  - [Страница 2](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-7)
+  - [Страница 9](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/vlijanie-kolloidnogo-izmelchenija-gomogenizacii-na-kachestvo-masla.237/page-11)
+- [**Вопреки заводским инструкциям и мануалам**](https://oil-glup.ru/threads/naperekor-zavodskim-instrukcijam-i-manualam.191/) — Когда и почему имеет смысл выбирать масло вопреки заводским инструкциям и руководствам по эксплуатации.
+  - [Страница 2](https://oil-glup.ru/threads/naperekor-zavodskim-instrukcijam-i-manualam.191/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/naperekor-zavodskim-instrukcijam-i-manualam.191/page-3)
+- [**Вред от золы**](https://oil-glup.ru/threads/vred-ot-zoly.78/) — Сульфатная зольность моторных масел: в чём её вред, насколько он подтверждается и как зола влияет на сажевые фильтры и катализаторы.
+  - [Страница 2](https://oil-glup.ru/threads/vred-ot-zoly.78/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/vred-ot-zoly.78/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/vred-ot-zoly.78/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/vred-ot-zoly.78/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/vred-ot-zoly.78/page-6)
+- [**Все ли масла одинаковы на коротком интервале замены?**](https://oil-glup.ru/threads/vse-li-masla-odinakovy-na-korotkom-intervale-zameny.294/) — Различаются ли масла по качеству, если менять их часто, и что в таком случае важно.
+  - [Страница 2](https://oil-glup.ru/threads/vse-li-masla-odinakovy-na-korotkom-intervale-zameny.294/page-2)
+- [**Вступаем в рыцарские ордена здесь**](https://oil-glup.ru/threads/vstupaem-v-rycarskie-ordena-zdes.110/) — Шуточная тема форума о «рыцарских орденах».
+  - [Страница 2](https://oil-glup.ru/threads/vstupaem-v-rycarskie-ordena-zdes.110/page-2)
+- [**Вторая победная волна синтетик 1969–2069**](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/) — История второй волны синтетических масел и взгляд на их будущее.
+  - [Страница 2](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/vtoraja-pobednaja-volna-sintetik-1969-2069.124/page-9)
+- [**Вторая часть**](https://oil-glup.ru/threads/vtoraja-chast.160/) — Продолжение авторского цикла тем форума.
+  - [Страница 2](https://oil-glup.ru/threads/vtoraja-chast.160/page-2)
+- [**Выбор масла без тонкостей, по-простому**](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/) — Практические советы по выбору моторного масла без углубления в сложные технические детали.
+  - [Страница 2](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-28)
+  - [Страница 29](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-29)
+  - [Страница 31](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-31)
+  - [Страница 33](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-33)
+  - [Страница 34](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-34)
+  - [Страница 35](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-35)
+  - [Страница 36](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-36)
+  - [Страница 37](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-37)
+  - [Страница 38](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-38)
+  - [Страница 39](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-39)
+  - [Страница 40](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-40)
+  - [Страница 41](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-41)
+  - [Страница 42](https://oil-glup.ru/threads/vybor-masla-bez-tonkostej-po-prostomu.106/page-42)
+
+## Г
+
+- [**Газпромнефть Premium N 5W-40 (2025)**](https://oil-glup.ru/threads/gazpromneft-premium-n-5w-40-2025.426/) — Обзор и анализ масла Газпромнефть Premium N 5W-40 образца 2025 года.
+- [**ГОСТ 17216 / ISO 4406 для PCEO и UOA**](https://oil-glup.ru/threads/gost-17216-iso-4406-dlja-pceo-uoa.134/) — Классы чистоты по ГОСТ 17216 и ISO 4406 применительно к моторным маслам и анализу отработки.
+- [**Граница синтетики**](https://oil-glup.ru/threads/granica-sintetiki.400/) — Где проходит граница между синтетическим и несинтетическим маслом и насколько она условна.
+  - [Страница 2](https://oil-glup.ru/threads/granica-sintetiki.400/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/granica-sintetiki.400/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/granica-sintetiki.400/page-4)
+- [**Грейды**](https://oil-glup.ru/threads/grejdy.463/) — Категории (грейды) моторных масел и базовых масел: как их понимать.
+- [**Группировки моторных масел**](https://oil-glup.ru/threads/gruppirovki-motornyx-masel.349/) — Как моторные масла делят на группы по типу базы и свойствам.
+  - [Страница 2](https://oil-glup.ru/threads/gruppirovki-motornyx-masel.349/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/gruppirovki-motornyx-masel.349/page-3)
+- [**Гуталин не попал в окно**](https://oil-glup.ru/threads/gutalin-ne-popal-v-okno.470/) — Шутливая тема о густом масле («гуталине»), которое «не попало в окно».
+- [**Гуталин пролез в окно**](https://oil-glup.ru/threads/gutalin-prolez-v-okno.469/) — Шутливая тема о густом масле («гуталине»), которое «пролезло в окно».
+
+## Д
+
+- [**Давление масла**](https://oil-glup.ru/threads/davlenie-masla.102/) — Давление масла в двигателе: от чего зависит и о чём говорят отклонения.
+  - [Страница 2](https://oil-glup.ru/threads/davlenie-masla.102/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/davlenie-masla.102/page-3)
+- [**Динамические вязкости**](https://oil-glup.ru/threads/dinamicheskie-vjazkosti.339/) — Динамическая вязкость моторных масел: что это, как измеряется и чем отличается от кинематической.
+  - [Страница 2](https://oil-glup.ru/threads/dinamicheskie-vjazkosti.339/page-2)
+- [**Довольно сухое, с крошками АН и эстеров**](https://oil-glup.ru/threads/dovolno-suxoe-s-kroshkami-an-i-ehsterov.493/) — Разбор масла с алкилированными нафталинами (АН) и эстерами в составе.
+- [**Документально подтверждённые проблемы от масел PCMO**](https://oil-glup.ru/threads/dokumentalno-podtverzhdennye-problemy-ot-masel-pcmo.312/) — Подборка проблем, вызванных моторными маслами для легковых автомобилей, подтверждённых документами.
+  - [Страница 2](https://oil-glup.ru/threads/dokumentalno-podtverzhdennye-problemy-ot-masel-pcmo.312/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/dokumentalno-podtverzhdennye-problemy-ot-masel-pcmo.312/page-3)
+- [**Документы ОГ**](https://oil-glup.ru/threads/dokumenty-og.500/) — Подборка документов форума ОГ.
+  - [Страница 2](https://oil-glup.ru/threads/dokumenty-og.500/page-2)
+- [**Допуск MB 229.71**](https://oil-glup.ru/threads/dopusk-mb-229-71.211/) — Допуск Mercedes-Benz 229.71: требования, назначение и подходящие масла.
+- [**Допуск Volvo VCC RBS0-2AE**](https://oil-glup.ru/threads/dopusk-volvo-vcc-rbs0-2ae.159/) — Допуск Volvo VCC RBS0-2AE: требования, назначение и подходящие масла.
+  - [Страница 2](https://oil-glup.ru/threads/dopusk-volvo-vcc-rbs0-2ae.159/page-2)
+- [**Допуск VW 504 00**](https://oil-glup.ru/threads/dopusk-vw-504-00.423/) — Требования допуска Volkswagen 504 00, его назначение и подходящие под него масла.
+- [**Допуск VW 508 00**](https://oil-glup.ru/threads/dopusk-vw-508-00.162/) — Допуск Volkswagen 508 00: требования, назначение и подходящие масла.
+  - [Страница 2](https://oil-glup.ru/threads/dopusk-vw-508-00.162/page-2)
+- [**Допуск моторного масла**](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/) — Что означают допуски автопроизводителей и как они влияют на выбор масла.
+  - [Страница 2](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/dopusk-motornogo-masla.152/page-9)
+- [**Доступ к алгоритму**](https://oil-glup.ru/threads/dostup-k-algoritmu.521/) — Тема о доступе к алгоритму расчёта или оценки масел.
+- [**Дружбан SAE20 Kazushi**](https://oil-glup.ru/threads/druzhban-sae20-kazushi.218/) — Тема о масле Kazushi SAE 20 и его особенностях.
+  - [Страница 2](https://oil-glup.ru/threads/druzhban-sae20-kazushi.218/page-2)
+
+## Е
+
+- [**Есть ли минусы у минералки?**](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/) — Недостатки минеральных масел в сравнении с синтетикой и полусинтетикой.
+  - [Страница 2](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/est-li-minusy-u-mineralki.100/page-10)
+
+## З
+
+- [**За машинку трения 0 рублей — премия**](https://oil-glup.ru/threads/za-mashinku-trenija-0-rublej-premija.243/) — Шуточная тема о премии за испытательную машину трения и разговоры о трибологических испытаниях.
+  - [Страница 2](https://oil-glup.ru/threads/za-mashinku-trenija-0-rublej-premija.243/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/za-mashinku-trenija-0-rublej-premija.243/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/za-mashinku-trenija-0-rublej-premija.243/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/za-mashinku-trenija-0-rublej-premija.243/page-5)
+- [**Замена масла в ДВС с умом**](https://oil-glup.ru/threads/zamena-masla-v-dvs-s-umom.448/) — Как разумно подходить к замене масла в двигателе: интервалы, анализы и условия эксплуатации.
+  - [Страница 2](https://oil-glup.ru/threads/zamena-masla-v-dvs-s-umom.448/page-2)
+- [**Замена масла по сезону: зима/лето**](https://oil-glup.ru/threads/zamena-masla-po-sezonu-zima-leto.81/) — Нужно ли менять масло в зависимости от сезона и какую вязкость выбирать зимой и летом.
+  - [Страница 2](https://oil-glup.ru/threads/zamena-masla-po-sezonu-zima-leto.81/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/zamena-masla-po-sezonu-zima-leto.81/page-3)
+- [**Замена масла по-японски**](https://oil-glup.ru/threads/zamena-masla-po-japonski.170/) — Японский подход к замене масла: интервалы, практика и особенности.
+  - [Страница 2](https://oil-glup.ru/threads/zamena-masla-po-japonski.170/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/zamena-masla-po-japonski.170/page-3)
+- [**Золотые слова ОГ**](https://oil-glup.ru/threads/zolotye-slova-og.486/) — Подборка ярких цитат и высказываний участников форума ОГ.
+  - [Страница 11](https://oil-glup.ru/threads/zolotye-slova-og.486/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/zolotye-slova-og.486/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/zolotye-slova-og.486/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/zolotye-slova-og.486/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/zolotye-slova-og.486/page-15)
+  - [Страница 17](https://oil-glup.ru/threads/zolotye-slova-og.486/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/zolotye-slova-og.486/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/zolotye-slova-og.486/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/zolotye-slova-og.486/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/zolotye-slova-og.486/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/zolotye-slova-og.486/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/zolotye-slova-og.486/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/zolotye-slova-og.486/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/zolotye-slova-og.486/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/zolotye-slova-og.486/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/zolotye-slova-og.486/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/zolotye-slova-og.486/page-28)
+
+## И
+
+- [**Измерение растворяющей способности в лаборатории**](https://oil-glup.ru/threads/izmerenie-rastvorjajuschej-sposobnosti-v-laboratorii.222/) — Как в лаборатории измеряют растворяющую способность масла и что эти измерения дают.
+- [**Изображения ОГ (OG Images)**](https://oil-glup.ru/threads/og-images.511/) — Коллекция изображений форума ОГ.
+  - [Страница 2](https://oil-glup.ru/threads/og-images.511/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/og-images.511/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/og-images.511/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/og-images.511/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/og-images.511/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/og-images.511/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/og-images.511/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/og-images.511/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/og-images.511/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/og-images.511/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/og-images.511/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/og-images.511/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/og-images.511/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/og-images.511/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/og-images.511/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/og-images.511/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/og-images.511/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/og-images.511/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/og-images.511/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/og-images.511/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/og-images.511/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/og-images.511/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/og-images.511/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/og-images.511/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/og-images.511/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/og-images.511/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/og-images.511/page-28)
+  - [Страница 29](https://oil-glup.ru/threads/og-images.511/page-29)
+  - [Страница 30](https://oil-glup.ru/threads/og-images.511/page-30)
+  - [Страница 31](https://oil-glup.ru/threads/og-images.511/page-31)
+  - [Страница 32](https://oil-glup.ru/threads/og-images.511/page-32)
+  - [Страница 33](https://oil-glup.ru/threads/og-images.511/page-33)
+  - [Страница 34](https://oil-glup.ru/threads/og-images.511/page-34)
+  - [Страница 35](https://oil-glup.ru/threads/og-images.511/page-35)
+  - [Страница 36](https://oil-glup.ru/threads/og-images.511/page-36)
+  - [Страница 37](https://oil-glup.ru/threads/og-images.511/page-37)
+  - [Страница 38](https://oil-glup.ru/threads/og-images.511/page-38)
+  - [Страница 39](https://oil-glup.ru/threads/og-images.511/page-39)
+  - [Страница 40](https://oil-glup.ru/threads/og-images.511/page-40)
+  - [Страница 41](https://oil-glup.ru/threads/og-images.511/page-41)
+  - [Страница 42](https://oil-glup.ru/threads/og-images.511/page-42)
+  - [Страница 43](https://oil-glup.ru/threads/og-images.511/page-43)
+  - [Страница 44](https://oil-glup.ru/threads/og-images.511/page-44)
+  - [Страница 45](https://oil-glup.ru/threads/og-images.511/page-45)
+  - [Страница 46](https://oil-glup.ru/threads/og-images.511/page-46)
+  - [Страница 47](https://oil-glup.ru/threads/og-images.511/page-47)
+  - [Страница 48](https://oil-glup.ru/threads/og-images.511/page-48)
+  - [Страница 49](https://oil-glup.ru/threads/og-images.511/page-49)
+  - [Страница 50](https://oil-glup.ru/threads/og-images.511/page-50)
+  - [Страница 51](https://oil-glup.ru/threads/og-images.511/page-51)
+  - [Страница 52](https://oil-glup.ru/threads/og-images.511/page-52)
+  - [Страница 53](https://oil-glup.ru/threads/og-images.511/page-53)
+  - [Страница 54](https://oil-glup.ru/threads/og-images.511/page-54)
+  - [Страница 55](https://oil-glup.ru/threads/og-images.511/page-55)
+  - [Страница 56](https://oil-glup.ru/threads/og-images.511/page-56)
+  - [Страница 57](https://oil-glup.ru/threads/og-images.511/page-57)
+  - [Страница 58](https://oil-glup.ru/threads/og-images.511/page-58)
+  - [Страница 59](https://oil-glup.ru/threads/og-images.511/page-59)
+  - [Страница 60](https://oil-glup.ru/threads/og-images.511/page-60)
+  - [Страница 61](https://oil-glup.ru/threads/og-images.511/page-61)
+  - [Страница 62](https://oil-glup.ru/threads/og-images.511/page-62)
+  - [Страница 63](https://oil-glup.ru/threads/og-images.511/page-63)
+  - [Страница 64](https://oil-glup.ru/threads/og-images.511/page-64)
+  - [Страница 65](https://oil-glup.ru/threads/og-images.511/page-65)
+  - [Страница 66](https://oil-glup.ru/threads/og-images.511/page-66)
+  - [Страница 67](https://oil-glup.ru/threads/og-images.511/page-67)
+  - [Страница 68](https://oil-glup.ru/threads/og-images.511/page-68)
+  - [Страница 69](https://oil-glup.ru/threads/og-images.511/page-69)
+  - [Страница 71](https://oil-glup.ru/threads/og-images.511/page-71)
+  - [Страница 73](https://oil-glup.ru/threads/og-images.511/page-73)
+  - [Страница 74](https://oil-glup.ru/threads/og-images.511/page-74)
+  - [Страница 75](https://oil-glup.ru/threads/og-images.511/page-75)
+- [**Индекс вязкости**](https://oil-glup.ru/threads/indeks-vjazkosti.182/) — Индекс вязкости масла: что он показывает, как рассчитывается и как его интерпретировать.
+  - [Страница 2](https://oil-glup.ru/threads/indeks-vjazkosti.182/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/indeks-vjazkosti.182/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/indeks-vjazkosti.182/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/indeks-vjazkosti.182/page-5)
+- [**Индекс вязкости (вторая тема)**](https://oil-glup.ru/threads/indeks-vjazkosti.380/) — Продолжение разговора об индексе вязкости: что он показывает и почему его значение не всегда решающее.
+- [**Инновационные инновации в моторных маслах: самое модное и новое**](https://oil-glup.ru/threads/innovacionnye-innovacii-v-motornyx-maslax-samoe-modnoe-i-novoe.37/) — Обзор новинок и модных технологий в моторных маслах и критический взгляд на них.
+  - [Страница 2](https://oil-glup.ru/threads/innovacionnye-innovacii-v-motornyx-maslax-samoe-modnoe-i-novoe.37/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/innovacionnye-innovacii-v-motornyx-maslax-samoe-modnoe-i-novoe.37/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/innovacionnye-innovacii-v-motornyx-maslax-samoe-modnoe-i-novoe.37/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/innovacionnye-innovacii-v-motornyx-maslax-samoe-modnoe-i-novoe.37/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/innovacionnye-innovacii-v-motornyx-maslax-samoe-modnoe-i-novoe.37/page-6)
+- [**Интересные исключения в области PCMO**](https://oil-glup.ru/threads/interesnye-iskljuchenija-v-oblasti-pcmo.141/) — Необычные и нетипичные исключения среди моторных масел для легковых автомобилей.
+- [**Интересные персоны первых синтетических бутиков**](https://oil-glup.ru/threads/interesnye-persony-pervyx-sinteticheskix-butikov.406/) — Люди, стоявшие у истоков «бутиковых» синтетических масел.
+- [**Искусственный интеллект**](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/) — Обсуждение возможностей и ограничений искусственного интеллекта в вопросах моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-12)
+  - [Страница 19](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-19)
+  - [Страница 21](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-25)
+  - [Страница 28](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-28)
+  - [Страница 30](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-30)
+  - [Страница 31](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-31)
+  - [Страница 35](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-35)
+  - [Страница 36](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-36)
+  - [Страница 37](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-37)
+  - [Страница 38](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-38)
+  - [Страница 39](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-39)
+  - [Страница 40](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-40)
+  - [Страница 41](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-41)
+  - [Страница 42](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-42)
+  - [Страница 43](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-43)
+  - [Страница 44](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-44)
+  - [Страница 45](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-45)
+  - [Страница 46](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-46)
+  - [Страница 47](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-47)
+  - [Страница 48](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-48)
+  - [Страница 49](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-49)
+  - [Страница 50](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-50)
+  - [Страница 51](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-51)
+  - [Страница 52](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-52)
+  - [Страница 53](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-53)
+  - [Страница 54](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-54)
+  - [Страница 55](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-55)
+  - [Страница 56](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-56)
+  - [Страница 57](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-57)
+  - [Страница 58](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-58)
+  - [Страница 59](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-59)
+  - [Страница 60](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-60)
+  - [Страница 61](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-61)
+  - [Страница 62](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-62)
+  - [Страница 63](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-63)
+  - [Страница 64](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-64)
+  - [Страница 65](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-65)
+  - [Страница 66](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-66)
+  - [Страница 67](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-67)
+  - [Страница 68](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-68)
+  - [Страница 69](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-69)
+  - [Страница 70](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-70)
+  - [Страница 71](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-71)
+  - [Страница 72](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-72)
+  - [Страница 73](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-73)
+  - [Страница 74](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-74)
+  - [Страница 75](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-75)
+  - [Страница 76](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-76)
+  - [Страница 77](https://oil-glup.ru/threads/iskusstvennyj-intellekt.437/page-77)
+- [**Испаряемость разными методами, но не Noack**](https://oil-glup.ru/threads/isparjaemost-raznymi-metodami-no-ne-noack.375/) — Методы оценки испаряемости масел, отличные от Noack, и их сравнение.
+- [**История методов оценки моторных масел**](https://oil-glup.ru/threads/istorija-metodov-ocenki-motornyx-masel.132/) — Как со временем развивались методы лабораторной оценки и испытаний моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/istorija-metodov-ocenki-motornyx-masel.132/page-2)
+
+## К
+
+- [**Как выбирать моторные масла: что учитывать**](https://oil-glup.ru/threads/kak-vybirat-motornye-masla-chto-uchityvat.254/) — Основные критерии выбора моторного масла: вязкость, допуски, база, присадки и условия эксплуатации.
+  - [Страница 2](https://oil-glup.ru/threads/kak-vybirat-motornye-masla-chto-uchityvat.254/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/kak-vybirat-motornye-masla-chto-uchityvat.254/page-3)
+  - [Страница 5](https://oil-glup.ru/threads/kak-vybirat-motornye-masla-chto-uchityvat.254/page-5)
+- [**Как создавать моторные масла: что учитывать**](https://oil-glup.ru/threads/kak-sozdavat-motornye-masla-chto-uchityvat.351/) — Основы разработки моторных масел: подбор базы, присадок и баланса свойств.
+  - [Страница 2](https://oil-glup.ru/threads/kak-sozdavat-motornye-masla-chto-uchityvat.351/page-2)
+- [**Как форумы моторных масел превратились в ловушку для тех, кто хочет выбрать лучшее масло**](https://oil-glup.ru/threads/kak-forumy-motornyx-masel-prevratilis-v-lovushku-dlja-tex-kto-xochet-vybrat-luchshee-maslo.344/) — Как форумы о моторных маслах запутывают тех, кто ищет лучшее масло, и почему так происходит.
+- [**Какие допуски для японок**](https://oil-glup.ru/threads/kakie-dopuski-dlja-japonok.105/) — Какие допуски и спецификации нужны для японских автомобилей.
+  - [Страница 2](https://oil-glup.ru/threads/kakie-dopuski-dlja-japonok.105/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/kakie-dopuski-dlja-japonok.105/page-3)
+- [**Какое мыло лучше?**](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/) — Сравнение моющих присадок («мыл») и вопрос о том, какие из них лучше.
+  - [Страница 2](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/page-6)
+  - [Страница 8](https://oil-glup.ru/threads/kakoe-mylo-luchshe.83/page-8)
+- [**Калориметрия**](https://oil-glup.ru/threads/kalorimetrija.515/) — Калориметрия в изучении масел: что измеряется и что это даёт.
+- [**Калькулятор вязкости**](https://oil-glup.ru/threads/kalkuljator-vjazkosti.525/) — Калькулятор вязкости масла для расчёта значений при разных температурах.
+- [**Кальций у админа**](https://oil-glup.ru/threads/kalcij-u-admina.198/) — Шуточная тема о кальции в масле и в анализах.
+  - [Страница 2](https://oil-glup.ru/threads/kalcij-u-admina.198/page-2)
+- [**Капельный шаманизм**](https://oil-glup.ru/threads/kapelnyj-shamanizm.179/) — Ироничный разбор капельных тестов масла и попыток делать по ним выводы.
+- [**Картинки ОГ**](https://oil-glup.ru/threads/kartinki-og.483/) — Коллекция картинок и изображений форума ОГ.
+  - [Страница 2](https://oil-glup.ru/threads/kartinki-og.483/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/kartinki-og.483/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/kartinki-og.483/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/kartinki-og.483/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/kartinki-og.483/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/kartinki-og.483/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/kartinki-og.483/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/kartinki-og.483/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/kartinki-og.483/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/kartinki-og.483/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/kartinki-og.483/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/kartinki-og.483/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/kartinki-og.483/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/kartinki-og.483/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/kartinki-og.483/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/kartinki-og.483/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/kartinki-og.483/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/kartinki-og.483/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/kartinki-og.483/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/kartinki-og.483/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/kartinki-og.483/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/kartinki-og.483/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/kartinki-og.483/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/kartinki-og.483/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/kartinki-og.483/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/kartinki-og.483/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/kartinki-og.483/page-28)
+  - [Страница 29](https://oil-glup.ru/threads/kartinki-og.483/page-29)
+  - [Страница 30](https://oil-glup.ru/threads/kartinki-og.483/page-30)
+  - [Страница 31](https://oil-glup.ru/threads/kartinki-og.483/page-31)
+  - [Страница 32](https://oil-glup.ru/threads/kartinki-og.483/page-32)
+  - [Страница 33](https://oil-glup.ru/threads/kartinki-og.483/page-33)
+  - [Страница 34](https://oil-glup.ru/threads/kartinki-og.483/page-34)
+  - [Страница 35](https://oil-glup.ru/threads/kartinki-og.483/page-35)
+  - [Страница 36](https://oil-glup.ru/threads/kartinki-og.483/page-36)
+  - [Страница 37](https://oil-glup.ru/threads/kartinki-og.483/page-37)
+  - [Страница 38](https://oil-glup.ru/threads/kartinki-og.483/page-38)
+  - [Страница 39](https://oil-glup.ru/threads/kartinki-og.483/page-39)
+  - [Страница 40](https://oil-glup.ru/threads/kartinki-og.483/page-40)
+  - [Страница 41](https://oil-glup.ru/threads/kartinki-og.483/page-41)
+  - [Страница 42](https://oil-glup.ru/threads/kartinki-og.483/page-42)
+  - [Страница 43](https://oil-glup.ru/threads/kartinki-og.483/page-43)
+  - [Страница 44](https://oil-glup.ru/threads/kartinki-og.483/page-44)
+  - [Страница 45](https://oil-glup.ru/threads/kartinki-og.483/page-45)
+  - [Страница 46](https://oil-glup.ru/threads/kartinki-og.483/page-46)
+  - [Страница 47](https://oil-glup.ru/threads/kartinki-og.483/page-47)
+  - [Страница 48](https://oil-glup.ru/threads/kartinki-og.483/page-48)
+  - [Страница 49](https://oil-glup.ru/threads/kartinki-og.483/page-49)
+  - [Страница 50](https://oil-glup.ru/threads/kartinki-og.483/page-50)
+  - [Страница 51](https://oil-glup.ru/threads/kartinki-og.483/page-51)
+  - [Страница 52](https://oil-glup.ru/threads/kartinki-og.483/page-52)
+  - [Страница 53](https://oil-glup.ru/threads/kartinki-og.483/page-53)
+  - [Страница 54](https://oil-glup.ru/threads/kartinki-og.483/page-54)
+  - [Страница 55](https://oil-glup.ru/threads/kartinki-og.483/page-55)
+  - [Страница 56](https://oil-glup.ru/threads/kartinki-og.483/page-56)
+  - [Страница 57](https://oil-glup.ru/threads/kartinki-og.483/page-57)
+  - [Страница 58](https://oil-glup.ru/threads/kartinki-og.483/page-58)
+  - [Страница 59](https://oil-glup.ru/threads/kartinki-og.483/page-59)
+  - [Страница 60](https://oil-glup.ru/threads/kartinki-og.483/page-60)
+  - [Страница 61](https://oil-glup.ru/threads/kartinki-og.483/page-61)
+  - [Страница 62](https://oil-glup.ru/threads/kartinki-og.483/page-62)
+  - [Страница 63](https://oil-glup.ru/threads/kartinki-og.483/page-63)
+  - [Страница 64](https://oil-glup.ru/threads/kartinki-og.483/page-64)
+  - [Страница 65](https://oil-glup.ru/threads/kartinki-og.483/page-65)
+  - [Страница 66](https://oil-glup.ru/threads/kartinki-og.483/page-66)
+  - [Страница 67](https://oil-glup.ru/threads/kartinki-og.483/page-67)
+  - [Страница 68](https://oil-glup.ru/threads/kartinki-og.483/page-68)
+  - [Страница 69](https://oil-glup.ru/threads/kartinki-og.483/page-69)
+  - [Страница 70](https://oil-glup.ru/threads/kartinki-og.483/page-70)
+  - [Страница 71](https://oil-glup.ru/threads/kartinki-og.483/page-71)
+  - [Страница 72](https://oil-glup.ru/threads/kartinki-og.483/page-72)
+  - [Страница 73](https://oil-glup.ru/threads/kartinki-og.483/page-73)
+  - [Страница 74](https://oil-glup.ru/threads/kartinki-og.483/page-74)
+  - [Страница 75](https://oil-glup.ru/threads/kartinki-og.483/page-75)
+  - [Страница 76](https://oil-glup.ru/threads/kartinki-og.483/page-76)
+  - [Страница 77](https://oil-glup.ru/threads/kartinki-og.483/page-77)
+  - [Страница 78](https://oil-glup.ru/threads/kartinki-og.483/page-78)
+  - [Страница 79](https://oil-glup.ru/threads/kartinki-og.483/page-79)
+  - [Страница 80](https://oil-glup.ru/threads/kartinki-og.483/page-80)
+  - [Страница 81](https://oil-glup.ru/threads/kartinki-og.483/page-81)
+  - [Страница 82](https://oil-glup.ru/threads/kartinki-og.483/page-82)
+  - [Страница 83](https://oil-glup.ru/threads/kartinki-og.483/page-83)
+  - [Страница 84](https://oil-glup.ru/threads/kartinki-og.483/page-84)
+  - [Страница 85](https://oil-glup.ru/threads/kartinki-og.483/page-85)
+  - [Страница 86](https://oil-glup.ru/threads/kartinki-og.483/page-86)
+  - [Страница 87](https://oil-glup.ru/threads/kartinki-og.483/page-87)
+  - [Страница 88](https://oil-glup.ru/threads/kartinki-og.483/page-88)
+  - [Страница 89](https://oil-glup.ru/threads/kartinki-og.483/page-89)
+  - [Страница 90](https://oil-glup.ru/threads/kartinki-og.483/page-90)
+  - [Страница 91](https://oil-glup.ru/threads/kartinki-og.483/page-91)
+  - [Страница 92](https://oil-glup.ru/threads/kartinki-og.483/page-92)
+  - [Страница 93](https://oil-glup.ru/threads/kartinki-og.483/page-93)
+  - [Страница 94](https://oil-glup.ru/threads/kartinki-og.483/page-94)
+  - [Страница 95](https://oil-glup.ru/threads/kartinki-og.483/page-95)
+  - [Страница 96](https://oil-glup.ru/threads/kartinki-og.483/page-96)
+  - [Страница 97](https://oil-glup.ru/threads/kartinki-og.483/page-97)
+  - [Страница 98](https://oil-glup.ru/threads/kartinki-og.483/page-98)
+  - [Страница 99](https://oil-glup.ru/threads/kartinki-og.483/page-99)
+  - [Страница 100](https://oil-glup.ru/threads/kartinki-og.483/page-100)
+  - [Страница 101](https://oil-glup.ru/threads/kartinki-og.483/page-101)
+  - [Страница 102](https://oil-glup.ru/threads/kartinki-og.483/page-102)
+  - [Страница 103](https://oil-glup.ru/threads/kartinki-og.483/page-103)
+  - [Страница 104](https://oil-glup.ru/threads/kartinki-og.483/page-104)
+  - [Страница 105](https://oil-glup.ru/threads/kartinki-og.483/page-105)
+  - [Страница 106](https://oil-glup.ru/threads/kartinki-og.483/page-106)
+  - [Страница 107](https://oil-glup.ru/threads/kartinki-og.483/page-107)
+  - [Страница 108](https://oil-glup.ru/threads/kartinki-og.483/page-108)
+  - [Страница 109](https://oil-glup.ru/threads/kartinki-og.483/page-109)
+  - [Страница 110](https://oil-glup.ru/threads/kartinki-og.483/page-110)
+  - [Страница 111](https://oil-glup.ru/threads/kartinki-og.483/page-111)
+  - [Страница 112](https://oil-glup.ru/threads/kartinki-og.483/page-112)
+  - [Страница 114](https://oil-glup.ru/threads/kartinki-og.483/page-114)
+  - [Страница 115](https://oil-glup.ru/threads/kartinki-og.483/page-115)
+  - [Страница 116](https://oil-glup.ru/threads/kartinki-og.483/page-116)
+  - [Страница 117](https://oil-glup.ru/threads/kartinki-og.483/page-117)
+  - [Страница 119](https://oil-glup.ru/threads/kartinki-og.483/page-119)
+  - [Страница 120](https://oil-glup.ru/threads/kartinki-og.483/page-120)
+  - [Страница 121](https://oil-glup.ru/threads/kartinki-og.483/page-121)
+  - [Страница 122](https://oil-glup.ru/threads/kartinki-og.483/page-122)
+  - [Страница 123](https://oil-glup.ru/threads/kartinki-og.483/page-123)
+  - [Страница 124](https://oil-glup.ru/threads/kartinki-og.483/page-124)
+  - [Страница 125](https://oil-glup.ru/threads/kartinki-og.483/page-125)
+  - [Страница 126](https://oil-glup.ru/threads/kartinki-og.483/page-126)
+  - [Страница 127](https://oil-glup.ru/threads/kartinki-og.483/page-127)
+  - [Страница 128](https://oil-glup.ru/threads/kartinki-og.483/page-128)
+  - [Страница 129](https://oil-glup.ru/threads/kartinki-og.483/page-129)
+  - [Страница 130](https://oil-glup.ru/threads/kartinki-og.483/page-130)
+  - [Страница 131](https://oil-glup.ru/threads/kartinki-og.483/page-131)
+  - [Страница 132](https://oil-glup.ru/threads/kartinki-og.483/page-132)
+  - [Страница 133](https://oil-glup.ru/threads/kartinki-og.483/page-133)
+  - [Страница 134](https://oil-glup.ru/threads/kartinki-og.483/page-134)
+  - [Страница 135](https://oil-glup.ru/threads/kartinki-og.483/page-135)
+  - [Страница 136](https://oil-glup.ru/threads/kartinki-og.483/page-136)
+  - [Страница 137](https://oil-glup.ru/threads/kartinki-og.483/page-137)
+  - [Страница 138](https://oil-glup.ru/threads/kartinki-og.483/page-138)
+  - [Страница 139](https://oil-glup.ru/threads/kartinki-og.483/page-139)
+  - [Страница 140](https://oil-glup.ru/threads/kartinki-og.483/page-140)
+  - [Страница 141](https://oil-glup.ru/threads/kartinki-og.483/page-141)
+  - [Страница 142](https://oil-glup.ru/threads/kartinki-og.483/page-142)
+  - [Страница 143](https://oil-glup.ru/threads/kartinki-og.483/page-143)
+  - [Страница 144](https://oil-glup.ru/threads/kartinki-og.483/page-144)
+  - [Страница 145](https://oil-glup.ru/threads/kartinki-og.483/page-145)
+  - [Страница 146](https://oil-glup.ru/threads/kartinki-og.483/page-146)
+- [**Каталог самых крутых масел всех времён**](https://oil-glup.ru/threads/katalog-samyx-krutyx-masel-vsex-vremen.303/) — Каталог самых выдающихся моторных масел за всю историю.
+- [**Китайские присадки**](https://oil-glup.ru/threads/kitajskie-prisadki.53/) — Присадки китайского производства: качество, состав и отличия от западных аналогов.
+  - [Страница 2](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/kitajskie-prisadki.53/page-11)
+- [**Когда новые части фильма-то выйдут?**](https://oil-glup.ru/threads/kogda-novye-chasti-filma-to-vyjdut.6/) — Обсуждение ожидаемых новых частей фильма «Масло».
+- [**Конкурс красоты канистр**](https://oil-glup.ru/threads/konkurs-krasoty-kanistr.155/) — Шуточный конкурс на самую красивую канистру или упаковку моторного масла.
+  - [Страница 2](https://oil-glup.ru/threads/konkurs-krasoty-kanistr.155/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/konkurs-krasoty-kanistr.155/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/konkurs-krasoty-kanistr.155/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/konkurs-krasoty-kanistr.155/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/konkurs-krasoty-kanistr.155/page-6)
+- [**Красивое**](https://oil-glup.ru/threads/krasivoe.62/) — Подборка красивого: удачные изображения и находки о моторных маслах.
+- [**Кремний в UOA**](https://oil-glup.ru/threads/kremnij-v-uoa.56/) — Откуда кремний в анализе отработки (пыль, антипена, герметик) и как это трактовать.
+- [**Крепкое масло**](https://oil-glup.ru/threads/krepkoe-maslo.80/) — Что называют «крепким» маслом: прочность масляной плёнки, вязкость и стоит ли гнаться за ними.
+  - [Страница 2](https://oil-glup.ru/threads/krepkoe-maslo.80/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/krepkoe-maslo.80/page-3)
+  - [Страница 5](https://oil-glup.ru/threads/krepkoe-maslo.80/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/krepkoe-maslo.80/page-6)
+- [**Крестан, TBN и прочие: TBN 50 — невероятная и необъяснимая UOA маслопурга**](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/) — Разбор невероятно высокого TBN и необъяснимых результатов анализа отработки у маслопурга.
+  - [Страница 2](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/krestan-tbn-i-prochie-tbn-50-neverojatnaja-i-neobjasnimaja-uoa-maslopurga.39/page-7)
+- [**Критика фильма и книги Смирнова «Масло»: ИИ Anthropic Fable 5.0 в режиме Max — беспрецедентное рубилово двое суток длиной**](https://oil-glup.ru/threads/kritika-filma-i-knigi-smirnova-maslo-ii-anthropic-fable-5-0-v-rezhime-max-besprecedentnoe-rubilovo-dvoe-sutok-dlinoj.502/) — Критический разбор фильма и книги Смирнова «Масло» с участием ИИ Anthropic Fable 5.0 в режиме Max.
+- [**Кряковая (гидрокрекинг): парафиновая контрреволюция**](https://oil-glup.ru/threads/krjakovaja-gidrokreking-parafinovaja-kontrrevoljucija.253/) — Гидрокрекинговые базовые масла и «парафиновая контрреволюция»: как они изменили рынок.
+  - [Страница 2](https://oil-glup.ru/threads/krjakovaja-gidrokreking-parafinovaja-kontrrevoljucija.253/page-2)
+
+## Л
+
+- [**Лаборатории**](https://oil-glup.ru/threads/laboratorii.231/) — Обзор лабораторий, анализирующих моторные масла: возможности и надёжность.
+  - [Страница 2](https://oil-glup.ru/threads/laboratorii.231/page-2)
+- [**Лак и нагар на деталях двигателя: твёрдые отложения**](https://oil-glup.ru/threads/lak-i-nagar-na-detaljax-dvigatelja-tverdye-otlozhenija.166/) — Как образуются лак, нагар и другие твёрдые отложения в двигателе и какую роль в этом играет масло.
+  - [Страница 2](https://oil-glup.ru/threads/lak-i-nagar-na-detaljax-dvigatelja-tverdye-otlozhenija.166/page-2)
+- [**Лекция по тупым допускам**](https://oil-glup.ru/threads/lekcija-po-tupym-dopuskam.512/) — Критическая лекция о допусках и их формальных требованиях.
+- [**Лидер мнения среди модификаторов трения**](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/) — Разбор модификаторов трения в моторных маслах и поиск лучшего из них.
+  - [Страница 2](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/lider-mnenija-sredi-modifikatorov-trenija.137/page-7)
+- [**Ликбез по моторным маслам**](https://oil-glup.ru/threads/likbez-po-motornym-maslam.51/) — Базовое введение в моторные масла: основные понятия, термины и частые заблуждения.
+  - [Страница 2](https://oil-glup.ru/threads/likbez-po-motornym-maslam.51/page-2)
+- [**Ложь — это норма в этой отрасли**](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/) — Критический разговор о некорректных заявлениях и недомолвках в индустрии моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/lozh-ehto-norma-v-ehtoj-otrasli.151/page-8)
+- [**Лукойл Genesis Armortech 0W-40 (2025)**](https://oil-glup.ru/threads/lukoil-genesis-armortech-0w-40-2025.425/) — Обзор и анализ масла Лукойл Genesis Armortech 0W-40 образца 2025 года.
+- [**Любые нарушения работы ДВС**](https://oil-glup.ru/threads/ljubye-narushenija-raboty-dvs.446/) — Обсуждение любых нарушений в работе двигателя и их связи с маслом.
+  - [Страница 2](https://oil-glup.ru/threads/ljubye-narushenija-raboty-dvs.446/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/ljubye-narushenija-raboty-dvs.446/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/ljubye-narushenija-raboty-dvs.446/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/ljubye-narushenija-raboty-dvs.446/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/ljubye-narushenija-raboty-dvs.446/page-6)
+- [**Любые новости в области моторных масел**](https://oil-glup.ru/threads/ljubye-novosti-v-oblasti-motornyx-masel.398/) — Новости, исследования и события в мире моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/ljubye-novosti-v-oblasti-motornyx-masel.398/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/ljubye-novosti-v-oblasti-motornyx-masel.398/page-3)
+
+## М
+
+- [**М.А.: по следам музейной темы**](https://oil-glup.ru/threads/m-a-po-sledam-muzejnoj-temy.71/) — Продолжение обсуждения музейной темы: новые экспонаты и находки.
+  - [Страница 2](https://oil-glup.ru/threads/m-a-po-sledam-muzejnoj-temy.71/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/m-a-po-sledam-muzejnoj-temy.71/page-3)
+- [**Масла Ближнего Востока**](https://oil-glup.ru/threads/masla-blizhnego-vostoka.345/) — Моторные масла, производимые и продаваемые на Ближнем Востоке: особенности и бренды.
+- [**Масло 4T для лодок и катеров**](https://oil-glup.ru/threads/maslo-4t-dlja-lodok-i-katerov.197/) — Выбор масла для четырёхтактных лодочных моторов: требования, допуски и особенности эксплуатации.
+  - [Страница 2](https://oil-glup.ru/threads/maslo-4t-dlja-lodok-i-katerov.197/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/maslo-4t-dlja-lodok-i-katerov.197/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/maslo-4t-dlja-lodok-i-katerov.197/page-4)
+- [**Масло Kazushi 0W-20**](https://oil-glup.ru/threads/maslo-kadzushi-0w-20.479/) — Обзор и обсуждение масла Kazushi 0W-20.
+- [**Масло в ЕС дороже, чем в США**](https://oil-glup.ru/threads/maslo-v-es-dorozhe-chem-v-ssha.108/) — Сравнение цен на моторное масло в странах ЕС и США и причины разницы.
+  - [Страница 2](https://oil-glup.ru/threads/maslo-v-es-dorozhe-chem-v-ssha.108/page-2)
+- [**Масло в китайский автомобиль**](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/) — Какое масло заливать в китайские автомобили: допуски, вязкость и практические рекомендации.
+  - [Страница 2](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/maslo-v-kitajskij-avtomobil.403/page-7)
+- [**Масло выбирает мануал**](https://oil-glup.ru/threads/maslo-vybiraet-manual.465/) — Тезис о том, что масло определяется руководством по эксплуатации, и его обсуждение.
+- [**Масло и износ ДВС, износ и масло**](https://oil-glup.ru/threads/maslo-i-iznos-dvs-iznos-i-maslo.530/) — Связь между маслом и износом двигателя в обе стороны.
+- [**Масляный туман**](https://oil-glup.ru/threads/masljanyj-tuman.140/) — Что такое масляный туман в двигателе, откуда он берётся и как влияет на износ и расход.
+  - [Страница 2](https://oil-glup.ru/threads/masljanyj-tuman.140/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/masljanyj-tuman.140/page-3)
+- [**Медь в масле**](https://oil-glup.ru/threads/med-v-masle.74/) — Откуда в масле берётся медь, что она показывает в анализе и чем может быть опасна.
+  - [Страница 2](https://oil-glup.ru/threads/med-v-masle.74/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/med-v-masle.74/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/med-v-masle.74/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/med-v-masle.74/page-5)
+- [**Металлы в отработке**](https://oil-glup.ru/threads/metally-v-otrabotke.40/) — Какие металлы встречаются в отработанном масле, о чём они говорят и как читать эти показатели.
+  - [Страница 2](https://oil-glup.ru/threads/metally-v-otrabotke.40/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/metally-v-otrabotke.40/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/metally-v-otrabotke.40/page-4)
+- [**Метод ASTM D611: анилиновая точка — грубый, но важный метод оценки «сухости» масла**](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/) — Анилиновая точка по ASTM D611: простой метод, помогающий оценить растворяющую способность («сухость») базового масла.
+  - [Страница 2](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/page-6)
+  - [Страница 8](https://oil-glup.ru/threads/metod-astm-d611-anilinovaja-tochka-grubyj-no-vazhnyj-metod-ocenki-suxosti-masla.167/page-8)
+- [**Метод Умберто**](https://oil-glup.ru/threads/metod-umberto.520/) — Описание метода Умберто для оценки или сравнения моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/metod-umberto.520/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/metod-umberto.520/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/metod-umberto.520/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/metod-umberto.520/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/metod-umberto.520/page-6)
+- [**Методы титрования TBN: ASTM D2896 (МП зовут его методом для свежего)**](https://oil-glup.ru/threads/metody-titrovanija-tbn-astm-d2896-mp-zovut-ego-metod-dlja-svezhego.164/) — Метод ASTM D2896 для определения общего щелочного числа (TBN), применяемый к свежим маслам.
+- [**Методы титрования TBN: ASTM D4739 (МП зовут его методом для отработки)**](https://oil-glup.ru/threads/metody-titrovanija-tbn-astm-d4739-mp-zovut-ego-metod-dlja-otrabotki.165/) — Метод ASTM D4739 для определения общего щелочного числа (TBN), применяемый к отработанным маслам.
+- [**Минусы PAO-синтетики (минусы полиальфаолефинов)**](https://oil-glup.ru/threads/minusy-pao-sintetiki-minusy-polialfaolefinov-pao.281/) — Недостатки синтетики на основе полиальфаолефинов (PAO): стоимость, растворимость присадок и другие нюансы.
+  - [Страница 2](https://oil-glup.ru/threads/minusy-pao-sintetiki-minusy-polialfaolefinov-pao.281/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/minusy-pao-sintetiki-minusy-polialfaolefinov-pao.281/page-3)
+- [**Минусы эстеров**](https://oil-glup.ru/threads/minusy-ehsterov.91/) — Недостатки сложноэфирных (эстеровых) базовых масел в моторных маслах: стоимость, совместимость, стабильность и другие нюансы.
+  - [Страница 2](https://oil-glup.ru/threads/minusy-ehsterov.91/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/minusy-ehsterov.91/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/minusy-ehsterov.91/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/minusy-ehsterov.91/page-5)
+- [**Мнение инженера**](https://oil-glup.ru/threads/mnenie-inzhenera.111/) — Взгляд инженера на моторные масла: практика, расчёты и реальные ограничения.
+- [**Могила HTHS**](https://oil-glup.ru/threads/mogila-hths.337/) — Разговор о показателе HTHS (вязкость при высокой температуре и высоком сдвиге): споры вокруг него и его пределы.
+  - [Страница 2](https://oil-glup.ru/threads/mogila-hths.337/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/mogila-hths.337/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/mogila-hths.337/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/mogila-hths.337/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/mogila-hths.337/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/mogila-hths.337/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/mogila-hths.337/page-8)
+- [**Моторное масло Olex**](https://oil-glup.ru/threads/maslo-motornoe-olex.439/) — Тема о моторных маслах бренда Olex: линейки, характеристики и особенности продукции.
+- [**Моторные масла Amsoil**](https://oil-glup.ru/threads/motornye-masla-amsoil.300/) — Обсуждение масел Amsoil: линейки, составы, допуски и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-amsoil.300/page-2)
+- [**Моторные масла Bizol**](https://oil-glup.ru/threads/motornye-masla-bizol.157/) — Обсуждение масел Bizol: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-bizol.157/page-2)
+- [**Моторные масла BMW**](https://oil-glup.ru/threads/motornye-masla-bmw.464/) — Обсуждение масел BMW: линейки, допуски и составы.
+- [**Моторные масла Castrol**](https://oil-glup.ru/threads/motornye-masla-castrol.252/) — Обсуждение масел Castrol: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-castrol.252/page-2)
+- [**Моторные масла Duckhams**](https://oil-glup.ru/threads/motornye-masla-duckhams.524/) — Обсуждение масел Duckhams: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Exline**](https://oil-glup.ru/threads/motornye-masla-exline.187/) — Тема по маслам бренда Exline: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-exline.187/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-exline.187/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-exline.187/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-exline.187/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/motornye-masla-exline.187/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/motornye-masla-exline.187/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/motornye-masla-exline.187/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/motornye-masla-exline.187/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/motornye-masla-exline.187/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/motornye-masla-exline.187/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/motornye-masla-exline.187/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/motornye-masla-exline.187/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/motornye-masla-exline.187/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/motornye-masla-exline.187/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/motornye-masla-exline.187/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/motornye-masla-exline.187/page-17)
+- [**Моторные масла Exoil**](https://oil-glup.ru/threads/motornye-masla-exoil.422/) — Тема по маслам бренда Exoil: линейки, характеристики и результаты анализов.
+- [**Моторные масла Foxgear**](https://oil-glup.ru/threads/motornye-masla-foxgear.541/) — Обсуждение масел Foxgear: линейки, составы и результаты анализов.
+- [**Моторные масла Fuchs**](https://oil-glup.ru/threads/motornye-masla-fuchs.454/) — Обсуждение масел Fuchs: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Idemitsu**](https://oil-glup.ru/threads/motornye-masla-idemitsu.236/) — Обсуждение масел Idemitsu: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-idemitsu.236/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-idemitsu.236/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-idemitsu.236/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-idemitsu.236/page-5)
+- [**Моторные масла Kixx**](https://oil-glup.ru/threads/motornye-masla-kixx.381/) — Обсуждение масел Kixx: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-kixx.381/page-2)
+- [**Моторные масла Kroon-Oil**](https://oil-glup.ru/threads/motornye-masla-kroon-oil.401/) — Обсуждение масел Kroon-Oil: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-kroon-oil.401/page-2)
+- [**Моторные масла Liqui Moly**](https://oil-glup.ru/threads/motornye-masla-liqui-moly.514/) — Обсуждение масел Liqui Moly: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-liqui-moly.514/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-liqui-moly.514/page-3)
+- [**Моторные масла Lopal**](https://oil-glup.ru/threads/motornye-masla-lopal.433/) — Тема по маслам бренда Lopal: линейки, характеристики и результаты анализов.
+- [**Моторные масла Lovca**](https://oil-glup.ru/threads/motornye-masla-lovca.386/) — Тема по маслам бренда Lovca: линейки, характеристики и результаты анализов.
+- [**Моторные масла Luxe**](https://oil-glup.ru/threads/motornye-masla-luxe.421/) — Обсуждение масел бренда Luxe: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-luxe.421/page-2)
+- [**Моторные масла Mannol**](https://oil-glup.ru/threads/motornye-masla-mannol.404/) — Обсуждение масел Mannol: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Mirax**](https://oil-glup.ru/threads/motornye-masla-mirax.277/) — Обсуждение масел Mirax: линейки, составы и результаты анализов.
+- [**Моторные масла Mobil**](https://oil-glup.ru/threads/motornye-masla-mobil.374/) — Обсуждение масел Mobil: линейки, допуски, составы и результаты лабораторных анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-8)
+  - [Страница 10](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-10)
+  - [Страница 12](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/motornye-masla-mobil.374/page-18)
+- [**Моторные масла Motorcraft**](https://oil-glup.ru/threads/motornye-masla-motorcraft.460/) — Обсуждение масел Motorcraft: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-motorcraft.460/page-2)
+- [**Моторные масла Motul**](https://oil-glup.ru/threads/motornye-masla-motul.416/) — Обсуждение масел Motul: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Mozer**](https://oil-glup.ru/threads/motornye-masla-mozer.474/) — Обсуждение масел Mozer: линейки, составы и результаты анализов.
+- [**Моторные масла Neo**](https://oil-glup.ru/threads/motornye-masla-neo.462/) — Обсуждение масел Neo: линейки, составы и результаты анализов.
+- [**Моторные масла Peak**](https://oil-glup.ru/threads/motornye-masla-peak.475/) — Обсуждение масел Peak: линейки, составы и результаты анализов.
+- [**Моторные масла Pennzoil**](https://oil-glup.ru/threads/motornye-masla-pennzoil.389/) — Обсуждение масел Pennzoil: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Petro-Canada**](https://oil-glup.ru/threads/motornye-masla-petro-canada.522/) — Обсуждение масел Petro-Canada: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Phillips 66**](https://oil-glup.ru/threads/motornye-masla-phillips-66.540/) — Обсуждение масел Phillips 66: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Profix**](https://oil-glup.ru/threads/motornye-masla-profix.482/) — Обсуждение масел Profix: линейки, составы и результаты анализов.
+- [**Моторные масла Ravenol**](https://oil-glup.ru/threads/motornye-masla-ravenol.396/) — Обсуждение масел Ravenol: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Red Line**](https://oil-glup.ru/threads/motornye-masla-red-line.382/) — Обсуждение масел Red Line: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла S-Oil**](https://oil-glup.ru/threads/motornye-masla-s-oil.408/) — Обсуждение масел S-Oil: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-s-oil.408/page-2)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-s-oil.408/page-4)
+- [**Моторные масла Shell**](https://oil-glup.ru/threads/motornye-masla-shell.223/) — Обсуждение масел Shell: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-shell.223/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-shell.223/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-shell.223/page-4)
+- [**Моторные масла Sintec**](https://oil-glup.ru/threads/motornye-masla-sintec.229/) — Обсуждение масел Sintec: линейки, допуски, составы и результаты анализов.
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-sintec.229/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-sintec.229/page-4)
+- [**Моторные масла TAIF**](https://oil-glup.ru/threads/motornye-masla-taif.543/) — Обсуждение масел TAIF: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Teboil**](https://oil-glup.ru/threads/motornye-masla-teboil.410/) — Обсуждение масел Teboil: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла Totek**](https://oil-glup.ru/threads/motornye-masla-totek.436/) — Обзор моторных масел Totek: линейки, допуски, составы и результаты лабораторных анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-totek.436/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-totek.436/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-totek.436/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-totek.436/page-5)
+- [**Моторные масла TSD PRO**](https://oil-glup.ru/threads/motornye-masla-tsd-pro.376/) — Тема по маслам TSD PRO: линейки, характеристики и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-tsd-pro.376/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-tsd-pro.376/page-3)
+- [**Моторные масла Valvoline**](https://oil-glup.ru/threads/motornye-masla-valvoline.251/) — Обсуждение масел Valvoline: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-valvoline.251/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-valvoline.251/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-valvoline.251/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-valvoline.251/page-5)
+  - [Страница 7](https://oil-glup.ru/threads/motornye-masla-valvoline.251/page-7)
+- [**Моторные масла Venol**](https://oil-glup.ru/threads/motornye-masla-venol.457/) — Обсуждение масел Venol: линейки, составы и результаты анализов.
+- [**Моторные масла Verity**](https://oil-glup.ru/threads/motornye-masla-verity.481/) — Обсуждение масел Verity: линейки, составы и результаты анализов.
+- [**Моторные масла Vitex**](https://oil-glup.ru/threads/motornye-masla-vitex.369/) — Обсуждение масел Vitex: линейки, составы и результаты анализов.
+- [**Моторные масла VMPAUTO и Polymerium**](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/) — Обзор и обсуждение моторных масел VMPAUTO и Polymerium: линейки, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-14)
+  - [Страница 16](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/motornye-masla-vmpavto-i-polymerium.194/page-18)
+- [**Моторные масла Wolf**](https://oil-glup.ru/threads/motornye-masla-wolf.516/) — Обсуждение масел Wolf: линейки, допуски, составы и результаты анализов.
+- [**Моторные масла ZIC**](https://oil-glup.ru/threads/motornye-masla-zic.247/) — Обсуждение масел ZIC: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-zic.247/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-zic.247/page-3)
+- [**Моторные масла в автоспорте**](https://oil-glup.ru/threads/motornye-masla-v-avtosporte.50/) — Какие масла применяют в автоспорте и чем они отличаются от обычных.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-v-avtosporte.50/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-v-avtosporte.50/page-3)
+- [**Моторные масла Газпромнефть**](https://oil-glup.ru/threads/motornye-masla-gazpromneft.471/) — Обсуждение масел Газпромнефть: линейки, допуски, составы и результаты анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-gazpromneft.471/page-2)
+- [**Моторные масла из Китая**](https://oil-glup.ru/threads/motornye-masla-iz-kitaja.451/) — Обзор моторных масел китайского производства: качество, составы и особенности.
+- [**Моторные масла Лукойл**](https://oil-glup.ru/threads/motornye-masla-lukoil.230/) — Обсуждение моторных масел Лукойл: линейки, допуски, составы и результаты лабораторных анализов.
+  - [Страница 2](https://oil-glup.ru/threads/motornye-masla-lukoil.230/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motornye-masla-lukoil.230/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motornye-masla-lukoil.230/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/motornye-masla-lukoil.230/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/motornye-masla-lukoil.230/page-6)
+- [**Моторные масла: список**](https://oil-glup.ru/threads/motornye-masla-lista.372/) — Сводный список моторных масел, обсуждаемых на форуме.
+- [**Моторы-убийцы: что это за мифология?**](https://oil-glup.ru/threads/motory-ubijcy-chto-ehto-za-mifologija.127/) — Разбор распространённой мифологии о «моторах-убийцах» — двигателях, которые якобы быстро выходят из строя.
+  - [Страница 2](https://oil-glup.ru/threads/motory-ubijcy-chto-ehto-za-mifologija.127/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/motory-ubijcy-chto-ehto-za-mifologija.127/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/motory-ubijcy-chto-ehto-za-mifologija.127/page-4)
+
+## Н
+
+- [**Навигация (важно)**](https://oil-glup.ru/threads/navigacija-vazhno.402/) — Служебная тема-навигатор по разделам и темам форума.
+- [**Нагреваем и жарим моторное масло**](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/) — Опыты с нагревом моторных масел и разбор того, как они меняются под действием температуры.
+  - [Страница 2](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/nagrevaem-i-zharim-motornoe-maslo.63/page-21)
+- [**Натягиваем Noack на TEOST**](https://oil-glup.ru/threads/natjagivaem-noack-na-teost.142/) — Попытка связать показатели Noack и TEOST: что у них общего и что нет.
+  - [Страница 2](https://oil-glup.ru/threads/natjagivaem-noack-na-teost.142/page-2)
+- [**Натягиваем Noack на растворяющую способность**](https://oil-glup.ru/threads/natjagivaem-noack-na-rastvorjajuschuju-sposobnost.368/) — Попытка связать испаряемость Noack с растворяющей способностью базовых масел.
+  - [Страница 2](https://oil-glup.ru/threads/natjagivaem-noack-na-rastvorjajuschuju-sposobnost.368/page-2)
+- [**Натяжение, смачивание: ASTM D971 и не только**](https://oil-glup.ru/threads/natjazhenie-smachivanie-astm-d971-i-ne-tolko.189/) — Поверхностное натяжение и смачивание в маслах: метод ASTM D971 и другие подходы.
+- [**Негативное влияние лишней вязкости**](https://oil-glup.ru/threads/negativnoe-vlijanie-lishnej-vjazkosti.266/) — Чем вредна избыточная вязкость масла: расход топлива, прокачиваемость и износ.
+- [**Ненасытная жажда имидных диспергентов**](https://oil-glup.ru/threads/nenasytnaja-zhazhda-imidnyx-dispersantov.296/) — Имидные диспергенты в моторных маслах: зачем их так много и чем это оборачивается.
+  - [Страница 2](https://oil-glup.ru/threads/nenasytnaja-zhazhda-imidnyx-dispersantov.296/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/nenasytnaja-zhazhda-imidnyx-dispersantov.296/page-3)
+
+## О
+
+- [**Общая история PCMO**](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/) — Обзор истории моторных масел для легковых автомобилей: от первых минеральных до современных синтетических составов.
+  - [Страница 2](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/obschaja-istorija-pcmo.269/page-9)
+- [**Общие вопросы по простым VOA и UOA**](https://oil-glup.ru/threads/obschie-voprosy-po-prostym-voa-i-uoa.276/) — Общие вопросы о простых анализах свежего (VOA) и отработанного (UOA) масла.
+  - [Страница 2](https://oil-glup.ru/threads/obschie-voprosy-po-prostym-voa-i-uoa.276/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/obschie-voprosy-po-prostym-voa-i-uoa.276/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/obschie-voprosy-po-prostym-voa-i-uoa.276/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/obschie-voprosy-po-prostym-voa-i-uoa.276/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/obschie-voprosy-po-prostym-voa-i-uoa.276/page-6)
+- [**Окисление моторных масел**](https://oil-glup.ru/threads/okislenie-motornyx-masel.280/) — Как окисляется моторное масло, чем это опасно и как с этим борются присадки.
+- [**Олейна изучает анилиновую точку**](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/) — Олейна разбирается в анилиновой точке: что это за показатель и как его применять.
+  - [Страница 2](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-7)
+  - [Страница 10](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/olejna-izuchaet-anilinovuju-tochku.473/page-14)
+- [**Орды минеральных бомжей**](https://oil-glup.ru/threads/ordy-mineralnyx-bomzhej.65/) — Шуточная тема о любителях недорогих минеральных масел.
+  - [Страница 3](https://oil-glup.ru/threads/ordy-mineralnyx-bomzhej.65/page-3)
+- [**Отличия масла для легковых дизелей (PCMO)**](https://oil-glup.ru/threads/otlichija-masla-dlja-legkovyx-dizelej-pcmo.210/) — Чем масла для легковых дизелей отличаются от бензиновых и какие у них особенности.
+  - [Страница 2](https://oil-glup.ru/threads/otlichija-masla-dlja-legkovyx-dizelej-pcmo.210/page-2)
+- [**Отличная тема, Маша**](https://oil-glup.ru/threads/otlichnaja-tema-masha.82/) — Шуточная тема форума с названием «Отличная тема, Маша».
+
+## П
+
+- [**Павел 1966 против Mobiloil**](https://oil-glup.ru/threads/pavel-1966-protiv-mobiloil.529/) — Сравнение масла Павел 1966 с Mobiloil.
+- [**Парафин в масле**](https://oil-glup.ru/threads/parafin-v-masle.86/) — Парафин в маслах: откуда берётся, как влияет на текучесть и что с этим делать.
+- [**Первая часть**](https://oil-glup.ru/threads/pervaja-chast.90/) — Начало авторского цикла тем форума.
+- [**Первое синтетическое моторное масло**](https://oil-glup.ru/threads/pervoe-sinteticheskoe-motornoe-maslo.333/) — Кто и когда создал первое синтетическое моторное масло и что оно собой представляло.
+- [**Плотность масла**](https://oil-glup.ru/threads/plotnost-masla.203/) — Что такое плотность моторного масла, как её измеряют и что она говорит о составе.
+  - [Страница 2](https://oil-glup.ru/threads/plotnost-masla.203/page-2)
+- [**Плюсы и минусы GTL и CTL**](https://oil-glup.ru/threads/pljusy-i-minusy-gtl-i-ctl.285/) — Достоинства и недостатки базовых масел, полученных из газа (GTL) и угля (CTL).
+  - [Страница 2](https://oil-glup.ru/threads/pljusy-i-minusy-gtl-i-ctl.285/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/pljusy-i-minusy-gtl-i-ctl.285/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/pljusy-i-minusy-gtl-i-ctl.285/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/pljusy-i-minusy-gtl-i-ctl.285/page-5)
+- [**Плюсы и минусы алкилированных нафталинов**](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/) — Алкилированные нафталины как базовый компонент: достоинства, недостатки и применение.
+  - [Страница 2](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/pljusy-i-minusy-alkilirovannyx-naftalinov.109/page-8)
+- [**Плюсы и минусы полиалкиленгликолей**](https://oil-glup.ru/threads/pljusy-i-minusy-polialkilenglikolej.279/) — Полиалкиленгликоли (PAG) как базовые масла: достоинства, недостатки и области применения.
+- [**Плюсы эстеров**](https://oil-glup.ru/threads/pljusy-ehsterov.455/) — Достоинства эстеровых базовых масел в моторных маслах.
+- [**Подбор моторного масла по вязкости**](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/) — Как выбрать масло по классу вязкости SAE с учётом климата, состояния двигателя и рекомендаций производителя.
+  - [Страница 2](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-14)
+  - [Страница 20](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-28)
+  - [Страница 29](https://oil-glup.ru/threads/podbor-motornogo-masla-po-vjazkosti.192/page-29)
+- [**Подбор моторного масла по растворяющей способности**](https://oil-glup.ru/threads/podbor-motornogo-masla-po-rastvorjajuschej-sposobnosti.513/) — Как подбирать моторное масло, ориентируясь на растворяющую способность базы.
+  - [Страница 2](https://oil-glup.ru/threads/podbor-motornogo-masla-po-rastvorjajuschej-sposobnosti.513/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/podbor-motornogo-masla-po-rastvorjajuschej-sposobnosti.513/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/podbor-motornogo-masla-po-rastvorjajuschej-sposobnosti.513/page-4)
+- [**Подбор моторного масла по цене**](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/) — Как выбрать моторное масло по соотношению цены и качества.
+  - [Страница 2](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-11)
+  - [Страница 13](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-13)
+  - [Страница 16](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/podbor-motornogo-masla-po-cene.392/page-26)
+- [**Подробный разбор МП-суеверий, созданных в сети интернет вокруг моторных масел**](https://oil-glup.ru/threads/podrobnyj-razbor-mp-sueverij-sozdannyx-v-seti-internet-vokrug-motornyx-masel.284/) — Разбор мифов и суеверий о моторных маслах, распространяемых в интернете.
+- [**Позорище в Су-Фоллс (Sioux Falls): Cycle by Quaker State — масляная чума не твоего деда из 1980-х**](https://oil-glup.ru/threads/pozorische-v-su-folls-sioux-falls-cycle-by-quaker-state-masljanaja-chuma-ne-tvoego-deda-iz-1980-x.488/) — Разбор масла Cycle от Quaker State из 1980-х и скандальной истории вокруг него.
+- [**Польза анализов отработки**](https://oil-glup.ru/threads/polza-analizov-otrabotki.365/) — Чем полезны анализы отработанного масла и какие выводы по ним можно (и нельзя) делать.
+- [**Полярность растворителя**](https://oil-glup.ru/threads/poljarnost-rastvoritelja.168/) — Полярность растворителя и её связь с растворяющей способностью масла.
+  - [Страница 2](https://oil-glup.ru/threads/poljarnost-rastvoritelja.168/page-2)
+- [**Постулаты фильма «Масло»**](https://oil-glup.ru/threads/postulaty-filma-maslo.304/) — Основные тезисы фильма «Масло» и их обсуждение.
+  - [Страница 2](https://oil-glup.ru/threads/postulaty-filma-maslo.304/page-2)
+- [**Почему ILSAC?**](https://oil-glup.ru/threads/pochemu-ilsac.241/) — Зачем нужна спецификация ILSAC, чем она отличается от API и ACEA и почему важна для современных двигателей.
+  - [Страница 2](https://oil-glup.ru/threads/pochemu-ilsac.241/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/pochemu-ilsac.241/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/pochemu-ilsac.241/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/pochemu-ilsac.241/page-5)
+  - [Страница 7](https://oil-glup.ru/threads/pochemu-ilsac.241/page-7)
+- [**Почему автопром никогда не понимал в маслах и не умел выбирать вязкость для своих ДВС**](https://oil-glup.ru/threads/pochemu-avtoprom-nikogda-ne-ponimal-v-maslax-i-ne-umel-vybirat-vjazkost-dlja-svoix-dvs.519/) — Критический разбор того, как автопроизводители выбирают масла и вязкость для своих двигателей.
+- [**Почему в классических авиационных поршневых двигателях мало синтетики и особые присадки**](https://oil-glup.ru/threads/pochemu-v-klassicheskix-aviacionnyx-porshnevyx-dvigateljax-malo-sintetiki-i-osobye-prisadki.244/) — Почему в классической поршневой авиации так мало синтетических масел и чем отличаются авиационные присадки.
+  - [Страница 2](https://oil-glup.ru/threads/pochemu-v-klassicheskix-aviacionnyx-porshnevyx-dvigateljax-malo-sintetiki-i-osobye-prisadki.244/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/pochemu-v-klassicheskix-aviacionnyx-porshnevyx-dvigateljax-malo-sintetiki-i-osobye-prisadki.244/page-3)
+- [**Правило №1 ОГ**](https://oil-glup.ru/threads/pravilo-1-og.357/) — Главное правило форума ОГ.
+- [**Присадки в моторном масле: общая тема**](https://oil-glup.ru/threads/prisadki-v-motornom-masle-obschaja-tema.113/) — Общая тема о присадках в моторных маслах: виды, назначение и спорные вопросы.
+  - [Страница 2](https://oil-glup.ru/threads/prisadki-v-motornom-masle-obschaja-tema.113/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/prisadki-v-motornom-masle-obschaja-tema.113/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/prisadki-v-motornom-masle-obschaja-tema.113/page-4)
+- [**Проблема блендерёнка**](https://oil-glup.ru/threads/problema-blenderjonka.461/) — Проблема самодельных смесей («блендерёнка»): когда смешивание масел оправдано, а когда нет.
+  - [Страница 2](https://oil-glup.ru/threads/problema-blenderjonka.461/page-2)
+- [**Проблемы и плюсы регистрации**](https://oil-glup.ru/threads/problemy-i-pljusy-registracii.55/) — Достоинства и сложности регистрации на форуме.
+- [**Проблемы масла от бензина**](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/) — Как бензин попадает в масло и какие проблемы это создаёт.
+  - [Страница 2](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/problemy-masla-ot-benzina.125/page-8)
+- [**Проблемы моторного масла от загустителей**](https://oil-glup.ru/threads/problemy-motornogo-masla-ot-zagustitelej.297/) — Чем вязкостные присадки (загустители) осложняют жизнь маслу: сдвиговая деструкция, потеря вязкости и отложения.
+  - [Страница 2](https://oil-glup.ru/threads/problemy-motornogo-masla-ot-zagustitelej.297/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/problemy-motornogo-masla-ot-zagustitelej.297/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/problemy-motornogo-masla-ot-zagustitelej.297/page-4)
+- [**Прожарочная кухня ОГ с Alex323**](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/) — Эксперименты по термической «прожарке» моторных масел и разбор их результатов.
+  - [Страница 2](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-15)
+  - [Страница 17](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/prozharochnaja-kuxnja-og-s-alex323.311/page-18)
+- [**Промокоды для приората скользителей**](https://oil-glup.ru/threads/promo-kody-dlja-priorata-skolzitelej.161/) — Шуточная тема с «промокодами» для «приората скользителей».
+- [**Прочность масляной плёнки**](https://oil-glup.ru/threads/prochnost-masljanoj-plenki.405/) — Что такое прочность масляной плёнки, как её оценивают и как она влияет на износ.
+
+## Р
+
+- [**Разбор GPT и Claude 4.5 комментов на тему фильма «Масло»**](https://oil-glup.ru/threads/razbor-gpt-claude-4-5-kommentov-na-temu-filma-maslo.447/) — Разбор комментариев к фильму «Масло» с помощью нейросетей GPT и Claude 4.5.
+- [**Разбор книги «Масло» через GPT и Claude Opus 4.5: объясняющая версия, сражаемся до талого**](https://oil-glup.ru/threads/razbor-knigi-maslo-cherez-gpt-claude-opus-4-5-objasnjajuschaja-versija-srazhaemsja-do-talogo.438/) — Подробный разбор книги «Масло» с помощью нейросетей GPT и Claude Opus 4.5: объяснения и спор до последнего аргумента.
+  - [Страница 2](https://oil-glup.ru/threads/razbor-knigi-maslo-cherez-gpt-claude-opus-4-5-objasnjajuschaja-versija-srazhaemsja-do-talogo.438/page-2)
+- [**Разбор фильма «Масло»: ChatDPT54 (Degenerative Pre-trained Transformer) из Новосибирска**](https://oil-glup.ru/threads/razbor-filma-maslo-chatdpt54-degenerative-pre-trained-transformer-iz-novosibirska.449/) — Разбор фильма «Масло» с помощью ироничной «нейросети» ChatDPT54 из Новосибирска.
+- [**Разные масла: влияние на звук, разгон, настроение, грехи**](https://oil-glup.ru/threads/raznye-masla-vlijanie-na-zvuk-razgon-nastroenie-grexi.409/) — Шутливо-серьёзный разбор того, как разные масла влияют на звук мотора, разгон и «настроение».
+- [**Разоблачение**](https://oil-glup.ru/threads/razoblachenie.169/) — Тема-разоблачение спорных утверждений в мире моторных масел.
+- [**Разыскиваются особо опасные рецидивисты. Внимание: могут быть синтезированы**](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/) — Шуточная по форме тема о «подозрительных» компонентах и маслах, которые выдают за синтетику, и о том, как разобраться, что в них на самом деле.
+  - [Страница 2](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/razyskivajutsja-osobo-opasnye-recidivisty-vnimanie-mogut-byt-sintezirovany.342/page-7)
+- [**Расхождения между лабами**](https://oil-glup.ru/threads/rasxozhdenija-mezhdu-labami.419/) — Почему разные лаборатории дают разные результаты анализа одного и того же масла и как к этому относиться.
+- [**Реакции**](https://oil-glup.ru/threads/reakcii.445/) — Тема реакций участников форума на материалы и события.
+  - [Страница 2](https://oil-glup.ru/threads/reakcii.445/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/reakcii.445/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/reakcii.445/page-4)
+  - [Страница 7](https://oil-glup.ru/threads/reakcii.445/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/reakcii.445/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/reakcii.445/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/reakcii.445/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/reakcii.445/page-11)
+- [**Рейтинг бесполезности методов оценки PCMO**](https://oil-glup.ru/threads/rejting-bespoleznosti-metodov-ocenki-pcmo.268/) — Шутливо-критический рейтинг методов оценки моторных масел по степени их бесполезности.
+  - [Страница 2](https://oil-glup.ru/threads/rejting-bespoleznosti-metodov-ocenki-pcmo.268/page-2)
+- [**Реклама моторных масел**](https://oil-glup.ru/threads/reklama-motornyx-masel.387/) — Разбор рекламных утверждений производителей и маркетинговых приёмов в мире моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-13)
+  - [Страница 14](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-25)
+  - [Страница 26](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-26)
+  - [Страница 27](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-27)
+  - [Страница 28](https://oil-glup.ru/threads/reklama-motornyx-masel.387/page-28)
+- [**Реология**](https://oil-glup.ru/threads/reologija.391/) — Основы реологии: как течёт моторное масло при разных температурах и нагрузках.
+
+## С
+
+- [**Самые крутые моторные масла всех времён**](https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/) — Подборка самых выдающихся моторных масел за всю историю.
+  - [Страница 2](https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/samye-krutye-motornye-masla-vsex-vremen.178/page-6)
+- [**Сводная тема по музею моторных масел за период 2024–2025**](https://oil-glup.ru/threads/svodnaja-tema-po-muzeju-motornyx-masel-za-period-2024-2025.377/) — Сводка по коллекции «музея» моторных масел форума за 2024–2025 годы.
+- [**Сегрегация по географическому и идеологическому происхождению рецептур PCMO**](https://oil-glup.ru/threads/segregacija-po-geograficheskomu-ideologicheskomu-proisxozhdeniju-receptur-pcmo.35/) — Как география и подходы разных школ определяют рецептуры моторных масел для легковых автомобилей.
+  - [Страница 2](https://oil-glup.ru/threads/segregacija-po-geograficheskomu-ideologicheskomu-proisxozhdeniju-receptur-pcmo.35/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/segregacija-po-geograficheskomu-ideologicheskomu-proisxozhdeniju-receptur-pcmo.35/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/segregacija-po-geograficheskomu-ideologicheskomu-proisxozhdeniju-receptur-pcmo.35/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/segregacija-po-geograficheskomu-ideologicheskomu-proisxozhdeniju-receptur-pcmo.35/page-5)
+- [**Секретные материалы моторных масел**](https://oil-glup.ru/threads/sekretnye-materialy-motornyx-masel.226/) — Малоизвестные факты и документы о составах и технологиях моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/sekretnye-materialy-motornyx-masel.226/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/sekretnye-materialy-motornyx-masel.226/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/sekretnye-materialy-motornyx-masel.226/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/sekretnye-materialy-motornyx-masel.226/page-5)
+- [**Секреты FTIR-спектров**](https://oil-glup.ru/threads/sekrety-ftir-spektrov.235/) — Как читать инфракрасные (FTIR) спектры моторных масел и что они показывают.
+- [**Серьёзно о longlife**](https://oil-glup.ru/threads/serezno-o-longlife.59/) — Серьёзный разговор об удлинённых интервалах замены (longlife): когда они оправданны, а когда нет.
+  - [Страница 2](https://oil-glup.ru/threads/serezno-o-longlife.59/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/serezno-o-longlife.59/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/serezno-o-longlife.59/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/serezno-o-longlife.59/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/serezno-o-longlife.59/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/serezno-o-longlife.59/page-7)
+- [**Серьёзные ограничения ИИ**](https://oil-glup.ru/threads/sereznye-ogranichenija-ii.538/) — Серьёзный разбор ограничений искусственного интеллекта в вопросах моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/sereznye-ogranichenija-ii.538/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/sereznye-ogranichenija-ii.538/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/sereznye-ogranichenija-ii.538/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/sereznye-ogranichenija-ii.538/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/sereznye-ogranichenija-ii.538/page-6)
+- [**Синтетикой оболванивают даже там, где это совсем не надо**](https://oil-glup.ru/threads/sintetikoj-obolvanivajut-dazhe-tam-gde-ehto-sovsem-ne-nado.456/) — Критика маркетинга, навязывающего синтетику даже там, где она не нужна.
+- [**Скандальные и судебные истории про масла: Mobil AV-1, Castrol против Pennzoil и др.**](https://oil-glup.ru/threads/skandalnye-i-sudebnye-istorii-pro-masla-mobil-av-1-castrol-protiv-pennzoil-etc.88/) — Скандалы и судебные споры вокруг моторных масел: Mobil AV-1, Castrol против Pennzoil и другие истории.
+- [**Сложное масло**](https://oil-glup.ru/threads/slozhnoe-maslo.468/) — Разбор моторного масла со сложным составом и его особенностей.
+- [**Смешное**](https://oil-glup.ru/threads/smeshnoe.72/) — Подборка смешных картинок и шуток о маслах.
+- [**Сработка ZDDP и мыла в моторных маслах**](https://oil-glup.ru/threads/srabotka-zddp-i-myla-v-motornyx-maslax.307/) — Как вырабатываются ZDDP и моющие присадки (мыла) в моторном масле в процессе эксплуатации.
+- [**Сработка в терминах МП: это что?**](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/) — Что такое «сработка» присадок и масла и как этот термин используется в обсуждениях.
+  - [Страница 2](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/srabotka-v-terminax-mp-ehto-chto.175/page-7)
+- [**Срок хранения моторного масла**](https://oil-glup.ru/threads/srok-xranenija-motornogo-masla.288/) — Как долго можно хранить моторное масло и как условия хранения влияют на его свойства.
+- [**Статистика**](https://oil-glup.ru/threads/statistika.258/) — Статистические данные и наблюдения по теме моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/statistika.258/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/statistika.258/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/statistika.258/page-4)
+- [**Статьи и патенты по теме моторных масел (PDF)**](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/) — Подборка научных статей и патентов о моторных маслах в формате PDF.
+  - [Страница 2](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-12)
+  - [Страница 14](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-14)
+  - [Страница 15](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-15)
+  - [Страница 16](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-16)
+  - [Страница 17](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-17)
+  - [Страница 18](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-18)
+  - [Страница 19](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-19)
+  - [Страница 20](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-20)
+  - [Страница 21](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-21)
+  - [Страница 22](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-22)
+  - [Страница 23](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-23)
+  - [Страница 24](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-24)
+  - [Страница 25](https://oil-glup.ru/threads/stati-i-patenty-po-teme-motornyx-masel-pdf.495/page-25)
+- [**Стильная синтетика**](https://oil-glup.ru/threads/stilnaja-sintetika.177/) — Тема о «стильных» синтетических маслах: бренды, упаковка и маркетинг.
+  - [Страница 2](https://oil-glup.ru/threads/stilnaja-sintetika.177/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/stilnaja-sintetika.177/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/stilnaja-sintetika.177/page-4)
+- [**Странные добавки в моторные масла**](https://oil-glup.ru/threads/strannye-dobavki-v-motornye-masla.496/) — Необычные и странные добавки в моторных маслах и их эффективность.
+  - [Страница 3](https://oil-glup.ru/threads/strannye-dobavki-v-motornye-masla.496/page-3)
+- [**Сухие против тех, кто против сухих**](https://oil-glup.ru/threads/suxie-protiv-tex-kto-protiv-suxix.93/) — Шутливая тема-спор о «сухих» и «не сухих» маслах.
+  - [Страница 2](https://oil-glup.ru/threads/suxie-protiv-tex-kto-protiv-suxix.93/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/suxie-protiv-tex-kto-protiv-suxix.93/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/suxie-protiv-tex-kto-protiv-suxix.93/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/suxie-protiv-tex-kto-protiv-suxix.93/page-5)
+- [**Сушёные корейские грибы X5 5W-30**](https://oil-glup.ru/threads/sushenye-korejskie-griby-x5-5w-30.484/) — Шуточная тема о масле ZIC X5 5W-30 и его особенностях.
+- [**Существуют ли корейские масла?**](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/) — Разбор вопроса о происхождении корейских масел: что в них корейское, а что нет.
+  - [Страница 2](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-7)
+  - [Страница 8](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-8)
+  - [Страница 9](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-9)
+  - [Страница 10](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-10)
+  - [Страница 11](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-11)
+  - [Страница 12](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-12)
+  - [Страница 13](https://oil-glup.ru/threads/suschestvujut-li-korejskie-masla.239/page-13)
+
+## Т
+
+- [**Таблички классов J300**](https://oil-glup.ru/threads/tablichki-klassov-j300.388/) — Таблицы классов вязкости SAE J300 с границами по вязкости при разных температурах.
+- [**Температура вспышки: все методы**](https://oil-glup.ru/threads/temperatura-vspyshki-vse-metody.195/) — Методы определения температуры вспышки моторных масел и их отличия.
+- [**Температура масла в ДВС**](https://oil-glup.ru/threads/temperatura-masla-v-dvs.149/) — Какая температура масла в двигателе нормальна и как она влияет на износ и срок службы масла.
+  - [Страница 2](https://oil-glup.ru/threads/temperatura-masla-v-dvs.149/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/temperatura-masla-v-dvs.149/page-3)
+- [**Теплопроводность и теплоёмкость PAO**](https://oil-glup.ru/threads/teploprovodnost-i-teploemkost-pao.228/) — Теплопроводность и теплоёмкость PAO-масел и их значение для охлаждения двигателя.
+- [**Тесты на обморожение маслищ**](https://oil-glup.ru/threads/testy-na-obmorozhenie-maslisch.350/) — Низкотемпературные испытания и «заморозка» масел: как ведут себя составы на морозе.
+- [**Топ-10 самых великих PCMO 1950–2024**](https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/) — Рейтинг десяти самых выдающихся моторных масел для легковых автомобилей с 1950 по 2024 год.
+  - [Страница 2](https://oil-glup.ru/threads/top-10-samyx-velikix-pcmo-1950-2024.112/page-2)
+- [**Точка стеклования**](https://oil-glup.ru/threads/tochka-steklovanija.287/) — Что такое точка стеклования масла и почему она важна для работы на морозе.
+  - [Страница 2](https://oil-glup.ru/threads/tochka-steklovanija.287/page-2)
+- [**Трибология в PCMO**](https://oil-glup.ru/threads/tribologija-v-pcmo.442/) — Трение, износ и смазка в моторных маслах для легковых автомобилей: как работает масляная плёнка и какую роль играют модификаторы трения.
+
+## У
+
+- [**Угар и расход масла по вине масла**](https://oil-glup.ru/threads/ugar-i-rasxod-masla-po-vine-masla.188/) — Когда повышенный расход (угар) масла вызван самим маслом: испаряемость, вязкость и состав.
+  - [Страница 2](https://oil-glup.ru/threads/ugar-i-rasxod-masla-po-vine-masla.188/page-2)
+
+## Ф
+
+- [**Флаг Германии как приманка**](https://oil-glup.ru/threads/flag-germanii-kak-primanka.136/) — Как немецкое происхождение и немецкая символика используются в маркетинге моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/flag-germanii-kak-primanka.136/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/flag-germanii-kak-primanka.136/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/flag-germanii-kak-primanka.136/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/flag-germanii-kak-primanka.136/page-5)
+- [**Форсунка в МПИзме: интерес к вязкости**](https://oil-glup.ru/threads/forsunka-v-mpizme-interes-k-vjazkosti.371/) — Вязкость масла и топлива применительно к форсункам в двигателях с распределённым впрыском (MPI).
+- [**Форум о масле: любой вопрос**](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/) — Общая тема форума: здесь можно задать любой вопрос о моторных маслах.
+  - [Страница 2](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/forum-o-masle-ljuboj-vopros.49/page-7)
+
+## Ц
+
+- [**Цвет моторного масла**](https://oil-glup.ru/threads/cvet-motornogo-masla.293/) — Что означает цвет моторного масла и можно ли по нему судить о состоянии.
+- [**Цирконий**](https://oil-glup.ru/threads/cirkonij.364/) — Цирконий в масле и в анализах: откуда берётся и что означает.
+
+## Ч
+
+- [**Чистота в двигателе. Часть 1: мыльные присадки, или детергенты**](https://oil-glup.ru/threads/chistota-v-dvigatele-chast-1-mylnye-prisadki-ili-detergenty.97/) — Первая часть цикла о чистоте двигателя: моющие (мыльные) присадки — детергенты.
+  - [Страница 2](https://oil-glup.ru/threads/chistota-v-dvigatele-chast-1-mylnye-prisadki-ili-detergenty.97/page-2)
+- [**Чистота в двигателе. Часть 2: диспергенты**](https://oil-glup.ru/threads/chistota-v-dvigatele-chast-2-dispersanty.98/) — Вторая часть цикла о чистоте двигателя: диспергенты и их роль в удержании загрязнений.
+- [**Чистота в двигателе. Часть 3: растворители**](https://oil-glup.ru/threads/chistota-v-dvigatele-chast-3-rastvoriteli.99/) — Третья часть цикла о чистоте двигателя: растворители и их роль в очистке.
+  - [Страница 2](https://oil-glup.ru/threads/chistota-v-dvigatele-chast-3-rastvoriteli.99/page-2)
+
+## Э
+
+- [**Экологи, CAFE, декарбонизация, автомобили на батарейках и т. п.**](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/) — Как экологические нормы, CAFE и электромобили влияют на рынок моторных масел.
+  - [Страница 2](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/page-2)
+  - [Страница 3](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/page-3)
+  - [Страница 4](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/page-4)
+  - [Страница 5](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/page-5)
+  - [Страница 6](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/page-6)
+  - [Страница 7](https://oil-glup.ru/threads/ehkologi-cafe-dekarbonizacija-avtomobili-na-batarejkax-i-t-p.154/page-7)
